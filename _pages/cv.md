@@ -18,15 +18,16 @@ Education
 
 Work experience
 ======
-* Summer 2015: Summer Research Intern
-  * [CAFRAL - RBI](http://www.cafral.org.in/)
-  * Project: Economic Policy Uncertainty Index - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing)
-  * Supervisor: Dr. N. R. Prabhala
 
 * Summer 2016: Research Intern
   * Microsoft Research Lab - India
   * Project: Re-targeting Matrix factorization with restricted monotonicity - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing)
   * Supervisor: Dr. Sreangsu Acharyya
+
+* Summer 2015: Summer Research Intern
+  * [CAFRAL - RBI](http://www.cafral.org.in/)
+  * Project: Economic Policy Uncertainty Index - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing)
+  * Supervisor: Dr. N. R. Prabhala
 
 Skills
 ======
