@@ -11,32 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php), [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/), 2017
+<!-- * M.S. in Jekyll, Github University, 2014
+* Ph.D in Version Control Theory, Github University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Summer Research Intern
+  * [CAFRAL - RBI](http://www.cafral.org.in/)
+  * Project: Economic Policy Uncertainty Index [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing)
+  * Supervisor: Dr. N. R. Prabhala
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2016: Research Intern
+  * Microsoft Research Lab - India
+  * Project: Re-targeting Matrix factorization with restricted monotonicity [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing)
+  * Supervisor: Dr. Sreangsu Acharyya
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages : C/C++, Python
+* Statistical Packages : MATLAB, R
+* Operating Systems : GNU/Linux, Windows
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -57,3 +54,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
