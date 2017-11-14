@@ -83,7 +83,7 @@ author:
   bio              : "Research Fellow @ Microsoft Research Labs India | Mathematics and Computing graduate from IIT Guwahati"
   location         : "Bengaluru"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "raghavsomani1995@gmail.com"
   uri              :
   bitbucket        :
