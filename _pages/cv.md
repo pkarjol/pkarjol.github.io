@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php), [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/), 2017
+* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php), [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/), 2017.
+
 <!-- * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected) -->
 
