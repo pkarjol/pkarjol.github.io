@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Research Fellow at in the [Machine Learning and Optimization group (India)](https://www.microsoft.com/en-us/research/group/machine-learning-and-optimization/) of [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). I am a fresh [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php) graduate from [IIT Guwahati](http://www.iitg.ernet.in/).
+I am interested in Machine Learning and Optimization. During my undergraduate studies I have worked on its applied areas, and now with my growing interest, I have started to look at the theoretical aspects of Machine Learning and Data Science that include mathematical analysis in Optimization, fundamental Matrix theory, Probability and related areas in Mathematics.
+Apart from Machine Learning, I am also interested in Scientific Computing, Statistics, Measure Theory, Analysis and areas that involve geometric thinking.
+I aspire to pursue the areas of my interest through a Ph.D. and then work in Research and Development to contribute to the Scientific and Technological community.
 
 A data-driven personal website
 ======
