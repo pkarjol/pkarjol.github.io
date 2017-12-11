@@ -1,4 +1,4 @@
 git add --all
 git status
-git commit -m "Changes on "
+git commit -m "Some changes"
 git push origin master
