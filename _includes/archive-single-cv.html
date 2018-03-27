@@ -32,10 +32,10 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
         {% if post.arxiv %}
-          [<a href="{{ post.paperurl }}">paper</a>]
+          [<a href="{{ post.paperurl }}" target="_blank">paper</a>]
         {% endif %}
         {% if post.arxiv %}
-          [<a href="{{ post.arxiv }}">arXiv</a>]
+          [<a href="{{ post.arxiv }}" target="_blank">arXiv</a>]
         {% endif %}
       {% endif %}
     </div>
