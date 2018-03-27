@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-12-22-EmpBayesRecSys-1
 excerpt: 'In this article, we provide a formulation of empirical Bayes Atchadé to tune the hyperparameters of priors used in Bayesian set-up of collaborative filter.'
 date: 2017-12-22
-venue: 'Journal : Communications in Statistics: Case Studies, Data Analysis and Applications'
+venue: 'Communications in Statistics: Case Studies, Data Analysis and Applications Volume 3, 2017 - Issue 1-2'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/23737484.2017.1392266'
 arxiv: 'https://arxiv.org/abs/1707.02294'
 authors: 'Arabin Kumar Dey, Raghav Somani & Sreangsu Acharyya'
