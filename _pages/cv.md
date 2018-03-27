@@ -34,18 +34,17 @@ Work experience
   * Project: Economic Policy Uncertainty Index - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
   * Supervisor: Dr. N. R. Prabhala
 
-Skills
-======
-* Languages : C/C++, Python
-* Statistical Packages : MATLAB, R
-* Operating Systems : GNU/Linux, Windows
-
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+* Languages : C/C++, Python
+* Statistical Packages : MATLAB, R
+* Operating Systems : GNU/Linux, Windows
   
 The detailed PDF verison of my CV can be found here - [Curriculum Vitae](https://drive.google.com/open?id=0B9-6pftL99HLanBlRjBOZU5IREk).
 <!-- Talks
