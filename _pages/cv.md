@@ -48,6 +48,8 @@ Skills
   
 The detailed PDF verison of my CV can be found here - [Curriculum Vitae](https://drive.google.com/open?id=0B9-6pftL99HLanBlRjBOZU5IREk).
 
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
