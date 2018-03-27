@@ -1,8 +1,8 @@
 ---
 title: "A case study of empirical Bayes in a user-movie recommendation system"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/2017-12-22-EmpBayesRecSys-1.md
+excerpt: 'In this article, we provide a formulation of empirical Bayes Atchadé to tune the hyperparameters of priors used in Bayesian set-up of collaborative filter.'
 date: 2017-12-22
 venue: 'Journal : Communications in Statistics: Case Studies, Data Analysis and Applications'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/23737484.2017.1392266'
