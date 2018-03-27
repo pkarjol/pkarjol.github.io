@@ -40,7 +40,6 @@ Skills
 * Statistical Packages : MATLAB, R
 * Operating Systems : GNU/Linux, Windows
 
-The detailed PDF verison of my CV can be found here - [Curriculum Vitae](https://drive.google.com/open?id=0B9-6pftL99HLanBlRjBOZU5IREk).
 
 Publications
 ======
@@ -48,6 +47,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+The detailed PDF verison of my CV can be found here - [Curriculum Vitae](https://drive.google.com/open?id=0B9-6pftL99HLanBlRjBOZU5IREk).
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}

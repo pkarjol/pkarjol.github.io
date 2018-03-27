@@ -8,10 +8,8 @@
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-  {% assign paperurl = post.paperurl | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
-  {% assign paperurl = post.paperurl %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
