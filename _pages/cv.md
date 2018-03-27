@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php), [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/), 2017.
+* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}, 2017.
 
 <!-- * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected) -->
@@ -19,14 +19,19 @@ Education
 Work experience
 ======
 
+* July 2017 - Present: Research Fellow
+  * Microsoft Research Lab - India
+  * Project group - Provable Non-convex Optimization for Machine Learning Problems
+  * Mentors: [Dr. Praneeth Netrapalli](https://www.microsoft.com/en-us/research/people/praneeth/){:target="_blank"} and [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/){:target="_blank"}
+
 * Summer 2016: Research Intern
   * Microsoft Research Lab - India
-  * Project: Re-targeting Matrix factorization with restricted monotonicity - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing)
+  * Project: Re-targeting Matrix factorization with restricted monotonicity - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing){:target="_blank"}
   * Supervisor: Dr. Sreangsu Acharyya
 
 * Summer 2015: Summer Research Intern
   * [CAFRAL - RBI](http://www.cafral.org.in/)
-  * Project: Economic Policy Uncertainty Index - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing)
+  * Project: Economic Policy Uncertainty Index - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
   * Supervisor: Dr. N. R. Prabhala
 
 Skills
@@ -37,13 +42,13 @@ Skills
 
 The detailed PDF verison of my CV can be found here - [Curriculum Vitae](https://drive.google.com/open?id=0B9-6pftL99HLanBlRjBOZU5IREk).
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
