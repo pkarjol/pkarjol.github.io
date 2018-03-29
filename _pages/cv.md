@@ -46,7 +46,7 @@ Skills
 * Statistical Packages : MATLAB, R
 * Operating Systems : GNU/Linux, Windows
   
-The detailed PDF verison of my CV can be found here - [Curriculum Vitae](https://drive.google.com/open?id=0B9-6pftL99HLanBlRjBOZU5IREk).
+<!-- The detailed PDF verison of my CV can be found here - [Curriculum Vitae](https://drive.google.com/open?id=0B9-6pftL99HLanBlRjBOZU5IREk). -->
 
 
 
