@@ -21,18 +21,18 @@ Work experience
 
 * July 2017 - Present: Research Fellow
   * Microsoft Research Lab - India
-  * Project group - Provable Non-convex Optimization for Machine Learning Problems
+  * Project group: Provable Non-convex Optimization for Machine Learning Problems
   * Mentors: [Dr. Praneeth Netrapalli](https://www.microsoft.com/en-us/research/people/praneeth/){:target="_blank"} and [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/){:target="_blank"}
 
 * Summer 2016: Research Intern
   * Microsoft Research Lab - India
-  * Project: Re-targeting Matrix factorization with restricted monotonicity - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing){:target="_blank"}
+  * Project: Clustered Monotone Transforms for Rating Factorization - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing){:target="_blank"}
   * Supervisor: Dr. Sreangsu Acharyya
 
 * Summer 2015: Summer Research Intern
   * [CAFRAL - RBI](http://www.cafral.org.in/)
   * Project: Economic Policy Uncertainty Index - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
-  * Supervisor: Dr. N. R. Prabhala
+  * Supervisor: [Dr. N. R. Prabhala](https://www.rhsmith.umd.edu/directory/nagpurnanand-r-prabhala){:target="_blank"}
 
 Publications
 ======
