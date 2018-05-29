@@ -1,6 +1,5 @@
-set message=%1
 git add --all
 git status
-git commit -m %message%
+git commit -m "Some changes"
 git push origin master
 pause
