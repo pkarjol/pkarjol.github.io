@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}, 2017.
+    CGPA 9.10
 
 <!-- * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected) -->
