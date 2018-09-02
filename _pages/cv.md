@@ -20,14 +20,14 @@ Education
 Work experience
 ======
 
-* July 2017 - Present: Research Fellow
-  * Microsoft Research Lab - India
-  * Project group: Provable Non-convex Optimization for Machine Learning Problems
+* July 2017 - Present: [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/#!research-fellow-program){:target="_blank"}
+  * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
+  * Project group: [Provable Non-convex Optimization for Machine Learning Problems](https://www.microsoft.com/en-us/research/project/provable-non-convex-optimization-for-machine-learning-problems/){:target="_blank"}
   * Mentors: [Dr. Praneeth Netrapalli](https://www.microsoft.com/en-us/research/people/praneeth/){:target="_blank"} and [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/){:target="_blank"}
 
 * Summer 2016: Research Intern
-  * Microsoft Research Lab - India
-  * Project: Approximating Matrices for Recommendation - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing){:target="_blank"}
+  * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
+  * Project: [Approximating Matrices for Recommendation](https://raghavsomani.github.io/projects/2018-03-10-project-2){:target="_blank"} - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing){:target="_blank"}
   * Supervisor: Dr. Sreangsu Acharyya
 
 * Summer 2015: Summer Research Intern
@@ -35,7 +35,7 @@ Work experience
   * Project: Economic Policy Uncertainty Index - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
   * Supervisor: [Dr. N. R. Prabhala](https://www.rhsmith.umd.edu/directory/nagpurnanand-r-prabhala){:target="_blank"}
 
-Publications
+[Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
