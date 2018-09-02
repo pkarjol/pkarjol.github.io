@@ -27,7 +27,7 @@ Work experience
 
 * Summer 2016: Research Intern
   * Microsoft Research Lab - India
-  * Project: Clustered Monotone Transforms for Rating Factorization - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing){:target="_blank"}
+  * Project: Approximating Matrices for Recommendation - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing){:target="_blank"}
   * Supervisor: Dr. Sreangsu Acharyya
 
 * Summer 2015: Summer Research Intern
