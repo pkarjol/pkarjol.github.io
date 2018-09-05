@@ -36,7 +36,7 @@ Work experience
 
 [Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
 ======
-(In reverse chronological order)
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
