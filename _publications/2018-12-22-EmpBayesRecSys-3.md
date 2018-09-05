@@ -1,5 +1,5 @@
 ---
-title: "A case study of empirical Bayes in a user-movie recommendation system"
+title: "Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds"
 collection: publications
 permalink: /publication/2018-12-22-EmpBayesRecSys-1
 excerpt: 'We provide a formulation of empirical Bayes Atchadé to tune the hyperparameters of priors used in Bayesian set-up of collaborative filter.'
