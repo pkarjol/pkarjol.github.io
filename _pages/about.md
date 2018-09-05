@@ -12,6 +12,8 @@ I am a Research Fellow at [Microsoft Research Lab - India](https://www.microsoft
 
 My interests are in aspects of Large-Scale Optimization, Random Matrix theory and Statistical Learning theory that arises in fundamental Machine Learning problems.
 
+My recent work [Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds](https://raghavsomani.github.io/publication/2018-09-05-OMP-2){:target="_blank"} has been accepted has for a Spotlight presentation at the NIPS 2018. I am currently working on the problem of generalization of Neural Networks under geomeric assumptios of the data.
+
 Previously, I attended [IIT Guwahati](http://www.iitg.ernet.in/){:target="_blank"} where I obtained my B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"} in 2017. I have worked on Recommendation systems with [Prof. Arabin Kumar Dey](http://www.iitg.ac.in/arabin/) for my undergraduate thesis.
 
 I am also interested in High dimensional geometry, Statistics, Analysis and areas that require geometric thinking. I aspire to pursue the areas of my interest through a Ph.D.
