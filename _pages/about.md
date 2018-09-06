@@ -14,7 +14,7 @@ My interests are in aspects of Large-Scale Optimization, Random Matrix theory an
 
 Our recent work, [Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds](https://raghavsomani.github.io/publication/2018-09-05-OMP-2){:target="_blank"} has been accepted for a *Spotlight* presentation at [*NIPS 2018*](https://nips.cc/Conferences/2018/){:target="_blank"}. Currently I am working on the problem of generalization in simple Neural Networks under geometric assumptions of the data distribution.
 
-Previously, I attended [IIT Guwahati](http://www.iitg.ernet.in/){:target="_blank"} where I obtained my B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"} in 2017. I have worked on Recommendation systems with [Prof. Arabin Kumar Dey](http://www.iitg.ac.in/arabin/) for my undergraduate thesis.
+Previously, I attended [IIT Guwahati](http://www.iitg.ernet.in/){:target="_blank"} where I obtained my B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"} in 2017. During my undergraduate studies, I have worked on Recommendation systems and text classification.
 
 I am also interested in High dimensional geometry, Statistics, Analysis and areas that require geometric thinking. I aspire to pursue the areas of my interest through a Ph.D.
 
