@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 $$
 	\newcommand{\x}{\mathbf{x}}
 	\newcommand{\y}{\mathbf{y}}
