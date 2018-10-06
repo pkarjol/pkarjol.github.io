@@ -1,14 +1,4 @@
----
-title: "Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds"
-collection: projects
-type: "Lab project"
-permalink: /projects/2018-10-05-project-5
-venue: "Microsoft Research Lab - India"
-date: 2018-10-05
-location: "Bengaluru, India"
----
-
-<!-- $$
+$$
 	\newcommand{\x}{\mathbf{x}}
 	\newcommand{\y}{\mathbf{y}}
 	\newcommand{\z}{\mathbf{z}}
@@ -38,12 +28,4 @@ location: "Bengaluru, India"
 	\newcommand{\I}{\mathbf{I}}
 	\newcommand{\C}{\mathcal{C}}
 	\newcommand{\V}{\mathcal{V}}
-$$ -->
-
-We study the problem of Sparse Regression, a landmark problem in the domain of Machine Learning, Statistics and Optimization which finds numerous applications in Compressed Sensing, model compression, high dimensional statistics, bio-informatics, [resource constrained machine learning](https://www.microsoft.com/en-us/research/project/resource-efficient-ml-for-the-edge-and-endpoint-iot-devices/){:target="_blank"} and more. Sparse Regression can be written down as an optimization problem as
-
 $$
-\x = \y + \z
-$$
-
-The Thesis report can be found [here](){:target="_blank"}
