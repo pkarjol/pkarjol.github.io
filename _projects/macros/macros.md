@@ -17,7 +17,7 @@ $$
 	\newcommand{\w}{\mathbf{w}}
 	\newcommand{\p}{\mathbf{p}}
 	\newcommand{\h}{\mathbf{h}}
-	\newcommand{\etavec}{\boldsymbol{\eta}}
+	<!-- \newcommand{\etavec}{\boldsymbol{\eta}}
 	\newcommand{\avec}{\mathbf{a}}
 	\newcommand{\bvec}{\mathbf{b}}
 	\newcommand{\dvec}{\mathbf{d}}
@@ -45,7 +45,7 @@ $$
 	\newcommand{\W}{\mathbf{W}}
 	\newcommand{\M}{\mathbf{M}}
 	\newcommand{\D}{\mathbf{D}}
-	\newcommand{\I}{\mathbf{I}}
+	\newcommand{\I}{\mathbf{I}} -->
 	<!-- \newcommand{\C}{\mathcal{C}}
 	\newcommand{\V}{\mathcal{V}}
 	\newcommand{\Rmat}{\mathbf{R}}
