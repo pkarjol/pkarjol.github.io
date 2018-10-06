@@ -87,5 +87,4 @@ $$
 \newcommand{\textleq}[1]{\stackrel{\text{#1}}{\leq}}
 \newcommand{\textgeq}[1]{\stackrel{\text{#1}}{\geq}}
 \newcommand{\slr}{\textsf{SLR}}
-\newcommand{\Normal}[2]{\mathcal{N}\roundbrack{#1,#2}}
 $$
