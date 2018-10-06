@@ -87,5 +87,4 @@ $$
 \newcommand{\textgeq}[1]{\stackrel{\text{#1}}{\geq}}
 \newcommand{\slr}{\textsf{SLR}}
 \newcommand{\brackeps}{\roundbrack{\epsilon}}
-\newcommand{\lt}{<}
 $$
