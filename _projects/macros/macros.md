@@ -1,5 +1,4 @@
-$$
-\newcommand{\x}{\mathbf{x}}
+$$\newcommand{\x}{\mathbf{x}}
 \newcommand{\y}{\mathbf{y}}
 \newcommand{\z}{\mathbf{z}}
 \newcommand{\g}{\mathbf{g}}
@@ -7,5 +6,4 @@ $$
 \newcommand{\q}{\mathbf{q}}
 \newcommand{\w}{\mathbf{w}}
 \newcommand{\p}{\mathbf{p}}
-\newcommand{\h}{\mathbf{h}}
-$$
+\newcommand{\h}{\mathbf{h}}$$
