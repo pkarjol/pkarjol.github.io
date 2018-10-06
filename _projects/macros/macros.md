@@ -17,7 +17,6 @@ $$
 	\newcommand{\w}{\mathbf{w}}
 	\newcommand{\p}{\mathbf{p}}
 	\newcommand{\h}{\mathbf{h}}
-
 	\newcommand{\etavec}{\boldsymbol{\eta}}
 	\newcommand{\avec}{\mathbf{a}}
 	\newcommand{\bvec}{\mathbf{b}}
@@ -25,7 +24,6 @@ $$
 	\newcommand{\uvec}{\mathbf{u}}
 	\newcommand{\xvec}{\mathbf{x}}
 	\newcommand{\vvec}{\mathbf{v}}
-
 	\newcommand{\xhat}{\mathbf{\hat{x}}}
 	\newcommand{\xbar}{\mathbf{\bar{x}}}
 	\newcommand{\xhatomp}[1]{\xhat^{\text{OMP}}_{#1}}
@@ -36,7 +34,6 @@ $$
 	\newcommand{\cond}[1]{\kappa_{#1}}
 	\newcommand{\generalizationError}{\mathcal{P}1}
 	\newcommand{\recovery}{\mathcal{P}2}
-
 	\newcommand{\brackeps}{{(\epsilon)}}
 	\newcommand{\A}{\mathbf{A}}
 	\newcommand{\X}{\mathbf{X}}
@@ -51,11 +48,9 @@ $$
 	\newcommand{\I}{\mathbf{I}}
 	\newcommand{\C}{\mathcal{C}}
 	\newcommand{\V}{\mathcal{V}}
-
 	\newcommand{\Rmat}{\mathbf{R}}
 	\newcommand{\SIGMA}{\mathbf{\Sigma}}
 	\newcommand{\LAMBDA}{\mathbf{\Lambda}}
-
 	\newcommand{\BigO}[1]{O\left(#1\right)}
 	\newcommand{\zero}{\mathbf{0}}
 	\newcommand{\one}[1]{\mathbf{1}_{#1}}
@@ -68,10 +63,11 @@ $$
 	\newcommand{\enorm}[1]{\left\lVert#1\right\rVert_2}
 	\newcommand{\infnorm}[1]{\left\lVert#1\right\rVert_\infty}
 	\newcommand{\lznorm}[1]{\left\lVert#1\right\rVert_0}
-
 	\newcommand{\eqdef}{\stackrel{\mathrm{def}}{=}}
-	\DeclareMathOperator*{\argmin}{arg\,min}
-	\DeclareMathOperator*{\argmax}{arg\,max}
+
+	<!-- \DeclareMathOperator*{\argmin}{arg\,min}
+	\DeclareMathOperator*{\argmax}{arg\,max} -->
+
 	\newcommand{\R}{\mathbb{R}}
 	\newcommand{\Rd}[1]{\mathbb{R}^{#1}}
 	\newcommand{\inner}[1]{\left\langle#1\right\rangle}
