@@ -1,4 +1,5 @@
-$$\newcommand{\x}{\mathbf{x}}
+$$
+\newcommand{\x}{\mathbf{x}}
 \newcommand{\y}{\mathbf{y}}
 \newcommand{\z}{\mathbf{z}}
 \newcommand{\g}{\mathbf{g}}
@@ -81,4 +82,8 @@ $$\newcommand{\x}{\mathbf{x}}
 \newcommand{\roundbrack}[1]{\left( #1 \right)}
 \newcommand{\curlybrack}[1]{\left\lbrace #1 \right\rbrace}
 \newcommand{\squarebrack}[1]{\left\lbrack #1 \right\rbrack}
+\newcommand{\textequal}[1]{\stackrel{\text{#1}}{=}}
+\newcommand{\textleq}[1]{\stackrel{\text{#1}}{\leq}}
+\newcommand{\textgeq}[1]{\stackrel{\text{#1}}{\geq}}
+\newcommand{\slr}{\textsf{SLR}\xspace}
 $$
