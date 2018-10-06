@@ -1,4 +1,5 @@
 $$
+\newcommand{\sstar}{s^*}
 \newcommand{\x}{\mathbf{x}}
 \newcommand{\y}{\mathbf{y}}
 \newcommand{\z}{\mathbf{z}}
