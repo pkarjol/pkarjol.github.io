@@ -85,5 +85,5 @@ $$
 \newcommand{\textequal}[1]{\stackrel{\text{#1}}{=}}
 \newcommand{\textleq}[1]{\stackrel{\text{#1}}{\leq}}
 \newcommand{\textgeq}[1]{\stackrel{\text{#1}}{\geq}}
-\newcommand{\slr}{\textsf{SLR}\xspace}
+\newcommand{\slr}{\textsf{SLR}}
 $$
