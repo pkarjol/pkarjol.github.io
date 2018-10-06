@@ -26,7 +26,6 @@ $$
 \newcommand{\cond}[1]{\kappa_{#1}}
 \newcommand{\generalizationError}{\mathcal{P}1}
 \newcommand{\recovery}{\mathcal{P}2}
-\newcommand{\brackeps}{(\epsilon)}
 \newcommand{\A}{\mathbf{A}}
 \newcommand{\X}{\mathbf{X}}
 \newcommand{\Y}{\mathbf{Y}}
@@ -87,4 +86,5 @@ $$
 \newcommand{\textleq}[1]{\stackrel{\text{#1}}{\leq}}
 \newcommand{\textgeq}[1]{\stackrel{\text{#1}}{\geq}}
 \newcommand{\slr}{\textsf{SLR}}
+\newcommand{\brackeps}{\roundbrack{\epsilon}}
 $$
