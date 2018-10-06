@@ -1,9 +1,4 @@
-<!-- ---
-layout: default
---- -->
-
 $$
-
 \newcommand{\x}{\mathbf{x}}
 \newcommand{\y}{\mathbf{y}}
 \newcommand{\z}{\mathbf{z}}
@@ -13,5 +8,4 @@ $$
 \newcommand{\w}{\mathbf{w}}
 \newcommand{\p}{\mathbf{p}}
 \newcommand{\h}{\mathbf{h}}
-
 $$
