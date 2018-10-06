@@ -6,4 +6,11 @@ $$\newcommand{\x}{\mathbf{x}}
 \newcommand{\q}{\mathbf{q}}
 \newcommand{\w}{\mathbf{w}}
 \newcommand{\p}{\mathbf{p}}
-\newcommand{\h}{\mathbf{h}}$$
+\newcommand{\h}{\mathbf{h}}
+\newcommand{\etavec}{\boldsymbol{\eta}}
+\newcommand{\avec}{\mathbf{a}}
+\newcommand{\bvec}{\mathbf{b}}
+\newcommand{\dvec}{\mathbf{d}}
+\newcommand{\uvec}{\mathbf{u}}
+\newcommand{\xvec}{\mathbf{x}}
+\newcommand{\vvec}{\mathbf{v}}$$
