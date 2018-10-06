@@ -24,6 +24,7 @@ $$\newcommand{\x}{\mathbf{x}}
 \newcommand{\cond}[1]{\kappa_{#1}}
 \newcommand{\generalizationError}{\mathcal{P}1}
 \newcommand{\recovery}{\mathcal{P}2}
+\newcommand{\brackeps}{(\epsilon)}
 \newcommand{\A}{\mathbf{A}}
 \newcommand{\X}{\mathbf{X}}
 \newcommand{\Y}{\mathbf{Y}}
