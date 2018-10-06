@@ -40,4 +40,16 @@ $$\newcommand{\x}{\mathbf{x}}
 \newcommand{\V}{\mathcal{V}}
 \newcommand{\Rmat}{\mathbf{R}}
 \newcommand{\SIGMA}{\mathbf{\Sigma}}
-\newcommand{\LAMBDA}{\mathbf{\Lambda}}$$
+\newcommand{\LAMBDA}{\mathbf{\Lambda}}
+\newcommand{\BigO}[1]{O\left(#1\right)}
+\newcommand{\zero}{\mathbf{0}}
+\newcommand{\one}[1]{\mathbf{1}_{#1}}
+\newcommand{\Sum}{\sum_{i = 1}^{n}}
+\newcommand{\Sumi}[1]{\sum\limits_{i = 1}^{#1}}
+\newcommand{\Sumt}[1]{\sum\limits_{t = 1}^{#1}}
+\newcommand{\abs}[1]{\left\lvert#1\right\rvert}
+\newcommand{\norm}[2]{\left\lVert#2\right\rVert_{#1}}
+\newcommand{\esqnorm}[1]{\left\lVert#1\right\rVert_2^2}
+\newcommand{\enorm}[1]{\left\lVert#1\right\rVert_2}
+\newcommand{\infnorm}[1]{\left\lVert#1\right\rVert_\infty}
+\newcommand{\lznorm}[1]{\left\lVert#1\right\rVert_0}$$
