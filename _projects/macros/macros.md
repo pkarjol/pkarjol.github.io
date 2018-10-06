@@ -25,7 +25,6 @@ $$\newcommand{\x}{\mathbf{x}}
 \newcommand{\generalizationError}{\mathcal{P}1}
 \newcommand{\recovery}{\mathcal{P}2}
 \newcommand{\brackeps}{{(\epsilon)}}
-\newcommand{\A}{\mathbf{A}}
 \newcommand{\X}{\mathbf{X}}
 \newcommand{\Y}{\mathbf{Y}}
 \newcommand{\Q}{\mathbf{Q}}
