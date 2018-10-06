@@ -13,4 +13,14 @@ $$\newcommand{\x}{\mathbf{x}}
 \newcommand{\dvec}{\mathbf{d}}
 \newcommand{\uvec}{\mathbf{u}}
 \newcommand{\xvec}{\mathbf{x}}
-\newcommand{\vvec}{\mathbf{v}}$$
+\newcommand{\vvec}{\mathbf{v}}
+\newcommand{\xhat}{\mathbf{\hat{x}}}
+\newcommand{\xbar}{\mathbf{\bar{x}}}
+\newcommand{\xhatomp}[1]{\xhat^{\text{OMP}}_{#1}}
+\newcommand{\wopt}[1]{\mathbf{w}^{(#1)}}
+\newcommand{\res}{\mathbf{r}}
+\newcommand{\rss}[1]{\rho^+_{#1}}
+\newcommand{\rsc}[1]{\rho^-_{#1}}
+\newcommand{\cond}[1]{\kappa_{#1}}
+\newcommand{\generalizationError}{\mathcal{P}1}
+\newcommand{\recovery}{\mathcal{P}2}$$
