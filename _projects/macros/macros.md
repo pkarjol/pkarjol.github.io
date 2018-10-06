@@ -68,4 +68,17 @@ $$\newcommand{\x}{\mathbf{x}}
 \newcommand{\BOX}[1]{\fbox{\parbox{\linewidth}{\centering#1}}}
 \newcommand{\prox}[2]{\text{prox}_{#1}\left(#2\right)}
 \newcommand{\Avgi}[1]{\inv{#1}\Sumi{#1}}
-\newcommand{\dodo}[2]{\frac{\partial #1}{\partial #2}}$$
+\newcommand{\dodo}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\Cov}{\mathbf{\Sigma}}
+\newcommand{\sparsity}[1]{\left\lVert#1\right\rVert_0}
+\newcommand{\supp}[1]{\text{supp}(#1)}
+\newcommand{\half}{\inv{2}}
+\newcommand{\kappas}[1]{\widetilde{\kappa}_{#1}}
+\newcommand{\Sset}{\mathbf{S}}
+\newcommand{\Si}[1]{\mathbf{S}_{#1}}
+\newcommand{\Sstar}{\mathbf{S}^*}
+\newcommand{\ASstar}{\A_{\Sstar}}
+\newcommand{\roundbrack}[1]{\left( #1 \right)}
+\newcommand{\curlybrack}[1]{\left\lbrace #1 \right\rbrace}
+\newcommand{\squarebrack}[1]{\left\lbrack #1 \right\rbrack}
+$$
