@@ -52,4 +52,20 @@ $$\newcommand{\x}{\mathbf{x}}
 \newcommand{\esqnorm}[1]{\left\lVert#1\right\rVert_2^2}
 \newcommand{\enorm}[1]{\left\lVert#1\right\rVert_2}
 \newcommand{\infnorm}[1]{\left\lVert#1\right\rVert_\infty}
-\newcommand{\lznorm}[1]{\left\lVert#1\right\rVert_0}$$
+\newcommand{\lznorm}[1]{\left\lVert#1\right\rVert_0}
+\newcommand{\eqdef}{\stackrel{\mathrm{def}}{=}}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Rd}[1]{\mathbb{R}^{#1}}
+\newcommand{\inner}[1]{\left\langle#1\right\rangle}
+\newcommand{\E}[1]{\mathbb{E}\left[#1\right]}
+\newcommand{\Var}[1]{\text{Var}\left[#1\right]}
+\newcommand{\Prob}[1]{P\left\lbrace#1\right\rbrace}
+\newcommand{\Exp}[2]{\mathbb{E}_{#1}\left[#2\right]}
+\newcommand{\inv}[1]{\frac{1}{#1}}
+\newcommand{\indicator}[2]{\mathbbm{1}_{#1}(#2)}
+\newcommand{\BOX}[1]{\fbox{\parbox{\linewidth}{\centering#1}}}
+\newcommand{\prox}[2]{\text{prox}_{#1}\left(#2\right)}
+\newcommand{\Avgi}[1]{\inv{#1}\Sumi{#1}}
+\newcommand{\dodo}[2]{\frac{\partial #1}{\partial #2}}$$
