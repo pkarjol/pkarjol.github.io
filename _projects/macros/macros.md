@@ -46,7 +46,7 @@ $$
 	\newcommand{\M}{\mathbf{M}}
 	\newcommand{\D}{\mathbf{D}}
 	\newcommand{\I}{\mathbf{I}}
-	\newcommand{\C}{\mathcal{C}}
+	<!-- \newcommand{\C}{\mathcal{C}}
 	\newcommand{\V}{\mathcal{V}}
 	\newcommand{\Rmat}{\mathbf{R}}
 	\newcommand{\SIGMA}{\mathbf{\Sigma}}
@@ -65,8 +65,8 @@ $$
 	\newcommand{\lznorm}[1]{\left\lVert#1\right\rVert_0}
 	\newcommand{\eqdef}{\stackrel{\mathrm{def}}{=}}
 
-	<!-- \DeclareMathOperator*{\argmin}{arg\,min}
-	\DeclareMathOperator*{\argmax}{arg\,max} -->
+	\DeclareMathOperator*{\argmin}{arg\,min}
+	\DeclareMathOperator*{\argmax}{arg\,max}
 
 	\newcommand{\R}{\mathbb{R}}
 	\newcommand{\Rd}[1]{\mathbb{R}^{#1}}
@@ -105,5 +105,5 @@ $$
 	\newcommand{\praneeth}[1]{{\color{red} PN: #1}}
 	\newcommand{\pj}[2][]{\todo[color=yellow!20,size=\tiny,#1]{PJ: #2}}
 
-	\newcommand{\slr}{\textsf{SLR}\xspace}
+	\newcommand{\slr}{\textsf{SLR}\xspace} -->
 $$
