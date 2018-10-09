@@ -18,4 +18,4 @@ Previously, I attended [IIT Guwahati](http://www.iitg.ernet.in/){:target="_blank
 
 I am also interested in High dimensional geometry, Statistics, Analysis and areas that require geometric thinking. I aspire to pursue the areas of my interest through a Ph.D.
 
-<!-- You can find my resume [here](https://drive.google.com/file/d/0B9-6pftL99HLanBlRjBOZU5IREk/view){:target="_blank"}. -->
+You can find my resume [here](\files\Raghav_CV_MSR.pdf){:target="_blank"}.
