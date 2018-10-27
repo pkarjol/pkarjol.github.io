@@ -11,6 +11,20 @@ redirect_from:
 
 The detailed PDF verison of my CV can be found here - [Curriculum Vitae](\files\Raghav_CV_MSR.pdf){:target="_blank"}.
 
+Research Interests
+======
+I seek to solve theoretical machine learning problems using ideas from optimization, high dimensional probability theory and statistics.
+
+* Major Interests - Machine Learning, Large Scale Optimization, High dimensional probability
+* Others - Random Matrix theory, Learning Theory, Applied mathematics
+
+[Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
+======
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Education
 ======
 * B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}, 2017 - CGPA 9.10/10
@@ -36,11 +50,15 @@ Work experience
   * Project: Economic Policy Uncertainty Index - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
   * Supervisor: [Dr. N. R. Prabhala](https://www.rhsmith.umd.edu/directory/nagpurnanand-r-prabhala){:target="_blank"}
 
-[Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
+
+[Projects](https://raghavsomani.github.io/publications/){:target="_blank"}
 ======
 
-  <ul>{% for post in site.publications reversed %}
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-projects.html %}
   {% endfor %}</ul>
 
 Skills
