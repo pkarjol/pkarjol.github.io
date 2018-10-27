@@ -54,12 +54,11 @@ Work experience
 [Projects](https://raghavsomani.github.io/publications/){:target="_blank"}
 ======
 
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   <ul>{% for post in site.projects reversed %}
     {% include archive-single-projects.html %}
   {% endfor %}</ul>
+
+something
 
 Skills
 ======
