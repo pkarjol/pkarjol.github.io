@@ -55,7 +55,7 @@ Work experience
 ======
 
   <ul>{% for post in site.projects reversed %}
-    {% include archive-single-projects.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 something
