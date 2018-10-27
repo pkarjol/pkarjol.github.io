@@ -12,28 +12,28 @@ redirect_from:
 The detailed PDF verison of my CV can be found here - [Curriculum Vitae](\files\Raghav_CV_MSR.pdf){:target="_blank"}.
 
 Research Interests
-======
+------
 I seek to solve theoretical machine learning problems using ideas from optimization, high dimensional probability theory and statistics.
 
 * Major Interests - Machine Learning, Large Scale Optimization, High dimensional probability
 * Others - Random Matrix theory, Learning Theory, Applied mathematics
 
 [Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
-======
+------
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Education
-======
+------
 * B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}, 2017 - CGPA 9.10/10
 
 <!-- * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected) -->
 
 Work experience
-======
+------
 
 * July 2017 - Present: [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/#!research-fellow-program){:target="_blank"}
   * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
@@ -52,16 +52,14 @@ Work experience
 
 
 [Projects](https://raghavsomani.github.io/publications/){:target="_blank"}
-======
+------
 
   <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-something
-
 Skills
-======
+------
 * Languages: C/C++, Python
 * Statistical Packages: MATLAB, R
 * Operating Systems: GNU/Linux, Windows
