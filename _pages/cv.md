@@ -58,12 +58,6 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
-------
-* Languages: C/C++, Python
-* Statistical Packages: MATLAB, R
-* Operating Systems: GNU/Linux, Windows
-
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
