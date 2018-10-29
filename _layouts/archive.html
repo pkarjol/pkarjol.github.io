@@ -20,7 +20,7 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
-    {% if page.url == '/publications/' %}
+    {% if page.collection == 'publications' %}
       <footer>* Equal contribution</footer>
     {% endif %}
   </div>
