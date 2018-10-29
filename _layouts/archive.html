@@ -20,6 +20,8 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
-    <footer>* Equal contribution</footer>
+    {% if post.collection == 'publications' %}
+      <footer>* Equal contribution</footer>
+    {% endif %}
   </div>
 </div>
