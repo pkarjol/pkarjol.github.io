@@ -42,7 +42,7 @@ Work experience
 
 * Summer 2016: Research Intern
   * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
-  * Project: [Approximating Matrices for Recommendation](https://raghavsomani.github.io/projects/2018-03-10-project-2){:target="_blank"} - [Presentation Slides](https://drive.google.com/file/d/1u_cx56K4xzdzznv-wuj1m9O1W98XaKjB/view?usp=sharing){:target="_blank"}
+  * Project: [Clustered Monotone Transforms for Rating Factorization](https://raghavsomani.github.io/projects/2018-08-16-project-2){:target="_blank"}
   * Supervisor: Dr. Sreangsu Acharyya
 
 * Summer 2015: Summer Research Intern
