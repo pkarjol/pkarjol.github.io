@@ -12,7 +12,7 @@ I am a Research Fellow at [Microsoft Research Lab - India](https://www.microsoft
 
 My interests are in aspects of Large-Scale Optimization, Random Matrix theory and Statistical Learning theory that arises in fundamental Machine Learning problems.
 
-Our recent work, [Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds](https://raghavsomani.github.io/publication/2018-09-05-OMP-2){:target="_blank"} has been accepted for a *Spotlight* presentation at [*NIPS 2018*](https://nips.cc/Conferences/2018/){:target="_blank"}. Currently I am trying to understand the trade-offs between optimization and generalization in simple Neural Networks. Other topic that have caught my recent attention are Reproducing Kernel Hilbert Space theory and Manifold Optimization.
+Our recent work, [Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds](https://raghavsomani.github.io/publication/2018-09-05-OMP-2){:target="_blank"} has been accepted for a *Spotlight* presentation at [*NeurIPS 2018*](https://neurips.cc/Conferences/2018){:target="_blank"}. Currently I am trying to understand the trade-offs between optimization and generalization in simple Neural Networks. Other topic that have caught my recent attention are Reproducing Kernel Hilbert Space theory and Manifold Optimization.
 
 Previously, I attended [IIT Guwahati](http://www.iitg.ernet.in/){:target="_blank"} where I obtained my B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"} in 2017. During my undergraduate studies, I have worked on Recommendation systems and Text classification.
 
