@@ -27,7 +27,7 @@ I seek to solve theoretical machine learning problems using ideas from optimizat
 
 Education
 ------
-* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}, 2017.
+* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}, 2017.<br>
 CGPA 9.10/10 (9.30/10 in major courses).
 
 <!-- * M.S. in Jekyll, Github University, 2014
