@@ -18,4 +18,4 @@ Previously, I attended [IIT Guwahati](http://www.iitg.ernet.in/){:target="_blank
 
 I am also interested in High dimensional geometry, Statistics, Analysis and areas that require geometric thinking. I aspire to pursue the areas of my interest through a Ph.D.
 
-You can find my resume [here](\files\Raghav_CV_MSR.pdf){:target="_blank"}.
+I will be joining [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/){:target="_blank"} at [University of Washington](https://www.washington.edu/){:target="_blank"} as a graduate student from Fall 2019. You can find my resume [here](\files\Raghav_CV_MSR.pdf){:target="_blank"}.
