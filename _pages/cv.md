@@ -36,7 +36,7 @@ CGPA 9.10/10 (9.30/10 in major courses).
 Work experience
 ------
 
-* July 2017 - Present: [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/#!research-fellow-program){:target="_blank"}
+* July 2017 - July 2019: [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/#!research-fellow-program){:target="_blank"}
   * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
   * Mentors: [Dr. Praneeth Netrapalli](https://www.microsoft.com/en-us/research/people/praneeth/){:target="_blank"} and [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/){:target="_blank"}
   * Project group: [Provable Non-convex Optimization for Machine Learning Problems](https://www.microsoft.com/en-us/research/project/provable-non-convex-optimization-for-machine-learning-problems/){:target="_blank"}
