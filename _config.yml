@@ -49,6 +49,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 mathjax                  : true
+minimal_mistakes_skin    : "dark"
 
 # SEO Related
 google_site_verification :
