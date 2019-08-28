@@ -16,3 +16,18 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+Raghav Somani:
+  name        : "Raghav Somani"
+  bio         : "Incoming 1st year PhD student<br>Paul G. Allen School of Computer Science and Engineering<br>University of Washington"
+  avatar      : "profile.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raghavsomani1995@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://raghavsomani.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SomaniRaghav"
