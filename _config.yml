@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# For details - https://github.com/mmistakes/so-simple-theme
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Raghav Somani"
@@ -47,6 +49,9 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 mathjax                  : true
+google_fonts:
+  - name: "Titillium Web"
+    weights: "400,400i,700,700i"
 
 # SEO Related
 google_site_verification :
