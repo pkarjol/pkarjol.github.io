@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming CS PhD stdudent at [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/){:target="_blank"} at [University of Washington](https://www.washington.edu/){:target="_blank"}.
+I am excited to be starting my Ph.D. in September 2019 at [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/){:target="_blank"} at [University of Washington](https://www.washington.edu/){:target="_blank"} with [Prof. Sewoong Oh](https://homes.cs.washington.edu/~sewoong/){:target="_blank"}.
 
 I am broadly interested in the aspects of Large-Scale Optimization and Probability theory that arise in fundamental Machine Learning. Related topic that have caught my recent attention are Stochastic gradient flow/descent on non-convex landscapes, Gradient flows in the space of probability measures and Manifold Optimization. I am also interested in High dimensional geometry, Statistics, Analysis and Physical sciences.
 
