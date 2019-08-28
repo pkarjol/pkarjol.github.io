@@ -83,7 +83,9 @@ analytics:
 author:
   name             : "Raghav Somani"
   avatar           : "profile.jpg"
-  bio              : "Incoming PhD student\nPaul G. Allen School of Computer Science & Engineering\nUniversity of Washington"
+  bio              : "Incoming PhD student\n
+                      Paul G. Allen School of Computer Science & Engineering\n
+                      University of Washington"
   location         : "Kolkata, India"
   employer         : 
   googlescholar    : "https://scholar.google.co.in/citations?user=0M99MEYAAAAJ&hl=en"
@@ -107,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "SomaniRaghav"
   vine             :
   weibo            :
   xing             :
