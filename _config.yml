@@ -83,7 +83,12 @@ analytics:
 author:
   name             : "Raghav Somani"
   avatar           : "profile.jpg"
-  bio              : "Incoming 1st year PhD student \n University of Washington"
+  bio              : >
+                      Incoming 1st year PhD student
+                      Paul G. Allen School of Computer Science and Engineering
+                      University of Washington
+
+
   location         : "Kolkata, India"
   employer         : 
   googlescholar    : "https://scholar.google.co.in/citations?user=0M99MEYAAAAJ&hl=en"
