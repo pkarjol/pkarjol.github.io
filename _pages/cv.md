@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Raghav_CV_MSR.pdf){:target="_blank"}.
+The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Raghav_CV_MSR.pdf){: .btn .btn--info} [__Curriculum Vitae__](\files\Raghav_CV_MSR.pdf){:target="_blank"}.
 
 Research Interests
 ------
