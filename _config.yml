@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Raghav Somani"
 title_separator          : "-"
 name                     : &name "Raghav Somani"
-description              : &description "Incoming PhD student @ University of Washington"
+description              : &description "Incoming PhD student \n University of Washington"
 url                      : https://raghavsomani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RaghavSomani/raghavsomani.github.io"
@@ -323,12 +323,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Footer Links
-footer_links:
-  - title: Twitter
-    url: https://twitter.com/SomaniRaghav
-    icon: fab fa-twitter-square
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/raghavsomani
-    icon: fab fa-linkedin-square
