@@ -14,10 +14,10 @@ intro:
 gallery:
   - image_path: Canada-2018/image_3.jpg
     url: Canada-2018/image_3.jpg
-    title: "Near Palais des Congres de Montreal. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
+    title: "Near Palais des Congres de Montreal. Pic credits - Don K. Dennis"
   - image_path: Canada-2018/image_1.jpg
     url: Canada-2018/image_1.jpg
-    title: "[Naga](https://twitter.com/naga86), [Praneeth](http://praneethnetrapalli.org), [Suriya](http://sgunasekar.github.io/), [Aditya](https://adityakusupati.github.io/) and me Mt. Royal."
+    title: "With labmates at Mt. Royal."
   - image_path: Canada-2018/image_5.jpg
     url: Canada-2018/image_5.jpg
     title: "The St. Joseph Oratory, Montreal"
@@ -29,7 +29,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-<!-- {% include feature_row %} -->
-{% include gallery id="gallery" caption="Some pictures along the trip." %}
+{% include gallery id="gallery" caption="Some selected pictures along the trip." %}
 
 {% include feature_row id="feature_row" type="center" %}
