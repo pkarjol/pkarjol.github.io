@@ -1,5 +1,5 @@
 ---
-title: 'Montreal, Canada during Neurips'18
+title: 'Montreal, Canada during Neurips 2018'
 date: 2018-12-08
 permalink: /misc/2018/12/neurips-canada/
 tags:
@@ -13,6 +13,10 @@ gallery:
     image_path: Canada-2018/image_2.jpg
     alt: "Montreal from Mt. Royal"
     title: "Montreal from Mt. Royal"
+  - url: Canada-2018/image_3.jpg
+    image_path: Canada-2018/image_3.jpg
+    alt: "Me standing near the confenrence center, shiverring"
+    title: "Me standing near the confenrence center, shiverring"
 ---
 
 {% include gallery caption="Montreal, Canada during NeurIPS'18" %}
