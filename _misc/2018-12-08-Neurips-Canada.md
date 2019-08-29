@@ -1,5 +1,5 @@
 ---
-title: "Montreal, Canada during Neurips 2018"
+title: "Montreal, Canada during NeurIPS 2018"
 layout: splash
 permalink: /misc/2018-12-Canada-Neurips/
 date: 2018-12-08
@@ -14,16 +14,12 @@ intro:
 gallery:
   - url: Canada-2018/image_3.jpg
     image_caption: "Caption. Me near the conference center, shiverring."
-    alt: "Near Palais des Congres de Montreal. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
     excerpt: "Near Palais des Congres de Montreal. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
   - url: Canada-2018/image_1.jpg
-    alt: "[Naga](https://twitter.com/naga86), [Praneeth](http://praneethnetrapalli.org), [Suriya](http://sgunasekar.github.io/), [Aditya](https://adityakusupati.github.io/) and me Mt. Royal."
     excerpt: "[Naga](https://twitter.com/naga86), [Praneeth](http://praneethnetrapalli.org), [Suriya](http://sgunasekar.github.io/), [Aditya](https://adityakusupati.github.io/) and me Mt. Royal."
   - url: Canada-2018/image_4.jpg
-    alt: "At the poster presentation session, NeurIPS 2018. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
     excerpt: "At the poster presentation session, NeurIPS 2018. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
   - url: Canada-2018/image_5.jpg
-    alt: "The St. Joseph Oratory, Montreal"
     excerpt: "The St. Joseph Oratory, Montreal"
 feature_row2:
   - image_path: Canada-2018/image_1.jpg
