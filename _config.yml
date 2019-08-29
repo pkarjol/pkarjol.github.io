@@ -192,6 +192,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  misc:
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -258,6 +261,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _misc
+  - scope:
+      path: ""
+      type: misc
+    values:
+      layout: splash
+      author_profile: true
+      comments: true
 
 # Sass/SCSS
 sass:
