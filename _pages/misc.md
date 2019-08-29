@@ -15,7 +15,7 @@ author_profile: true
  ---
 title: "Montreal, Canada during Neurips 2018"
 layout: splash
-permalink: /misc/2018-12-Canada-Neurips/
+permalink: /misc/
 date: 2018-12-08
 header:
   overlay_color: "#000"
