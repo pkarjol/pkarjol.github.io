@@ -1,5 +1,7 @@
 ---
+layout: splash
 title: 'Montreal, Canada during Neurips 2018'
+excerpt: 'Visiting Montreal, Canada with labmates to attend NeurIPS 2018.'
 date: 2018-12-08
 permalink: /misc/2018/12/neurips-canada/
 tags:
