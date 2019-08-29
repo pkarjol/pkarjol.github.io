@@ -14,4 +14,4 @@ I am broadly interested in the aspects of Large-Scale Optimization and Probabili
 
 Previously, I spent two wonderful years as a [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/research-fellow-program/?#){:target="_blank"} at [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"} where I was fortunate to work with [Dr. Praneeth Netrapalli](https://www.microsoft.com/en-us/research/people/praneeth/){:target="_blank"} and [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/){:target="_blank"} on provable non-convex optimization algorithms for Machine Learning and understanding several phenomena in Deep learning. Prior to the fellowship, I attended [IIT Guwahati](http://www.iitg.ernet.in/){:target="_blank"} where I obtained my B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"} in 2017.
 
-My resume can be found [here](\files\Raghav_CV_MSR.pdf){:target="_blank"}.
+[__My Curriculum Vitae__](\files\Raghav_CV_MSR.pdf){: .btn}.
