@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Misc"
 permalink: /misc/
 author_profile: true
