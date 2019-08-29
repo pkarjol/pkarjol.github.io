@@ -1,5 +1,5 @@
 ---
-title: 'Canada 2018'
+title: 'Montreal, Canada during Neurips'18
 date: 2018-12-08
 permalink: /misc/2018/12/neurips-canada/
 tags:
