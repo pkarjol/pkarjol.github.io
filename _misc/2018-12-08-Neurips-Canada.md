@@ -17,20 +17,12 @@ gallery:
     excerpt: "Near Palais des Congres de Montreal. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
   - image_path: Canada-2018/image_1.jpg
     excerpt: "[Naga](https://twitter.com/naga86), [Praneeth](http://praneethnetrapalli.org), [Suriya](http://sgunasekar.github.io/), [Aditya](https://adityakusupati.github.io/) and me Mt. Royal."
-  - image_path: Canada-2018/image_4.jpg
-    excerpt: "At the poster presentation session, NeurIPS 2018. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
   - image_path: Canada-2018/image_5.jpg
     excerpt: "The St. Joseph Oratory, Montreal"
-feature_row3:
-  - image_path: Canada-2018/image_3.jpg
-    alt: "Me near the conference center, shiverring."
-    title: "Me near the conference center, shiverring."
-    excerpt: "Excerpt. Me near the conference center, shiverring."
-feature_row4:
+feature_row:
   - image_path: Canada-2018/image_4.jpg
-    alt: "At the poster presentation session, NeurIPS 2018."
     title: "At the poster presentation session, NeurIPS 2018."
-    excerpt: "Excerpt. At the poster presentation session, NeurIPS 2018."
+    excerpt: "Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -38,6 +30,4 @@ feature_row4:
 <!-- {% include feature_row %} -->
 {% include gallery id="gallery" caption="Some pictures along the trip." %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row" type="center" %}
