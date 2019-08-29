@@ -13,16 +13,18 @@ intro:
   - excerpt: 'Received a travel grant from Microsoft to present and attend at [NeurIPS 2018](https://neurips.cc/Conferences/2018). This was my very first experience at an academic conference. Scroll and have a look at some pictures!'
 gallery:
   - image_path: Canada-2018/image_3.jpg
-    image_caption: "Caption. Me near the conference center, shiverring."
+    url: Canada-2018/image_3.jpg
     title: "Near Palais des Congres de Montreal. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
   - image_path: Canada-2018/image_1.jpg
+    url: Canada-2018/image_1.jpg
     title: "[Naga](https://twitter.com/naga86), [Praneeth](http://praneethnetrapalli.org), [Suriya](http://sgunasekar.github.io/), [Aditya](https://adityakusupati.github.io/) and me Mt. Royal."
   - image_path: Canada-2018/image_5.jpg
+    url: Canada-2018/image_5.jpg
     title: "The St. Joseph Oratory, Montreal"
 feature_row:
   - image_path: Canada-2018/image_4.jpg
     title: "At the poster presentation session, NeurIPS 2018."
-    excerpt: "Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
+    excerpt: "Picture credit - [Don K. Dennis](https://dkdennis.xyz)"
 ---
 
 {% include feature_row id="intro" type="center" %}
