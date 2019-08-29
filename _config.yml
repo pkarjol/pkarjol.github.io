@@ -267,6 +267,8 @@ defaults:
       type: misc
     values:
       layout: single
+      author_profile: true
+      comment: true
 
 # Sass/SCSS
 sass:
