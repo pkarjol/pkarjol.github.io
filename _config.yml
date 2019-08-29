@@ -193,7 +193,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   misc:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
