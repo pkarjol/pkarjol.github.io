@@ -14,11 +14,11 @@ intro:
 gallery:
   - image_path: Canada-2018/image_3.jpg
     image_caption: "Caption. Me near the conference center, shiverring."
-    excerpt: "Near Palais des Congres de Montreal. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
+    title: "Near Palais des Congres de Montreal. Pic credits - [Don K. Dennis](https://dkdennis.xyz)"
   - image_path: Canada-2018/image_1.jpg
-    excerpt: "[Naga](https://twitter.com/naga86), [Praneeth](http://praneethnetrapalli.org), [Suriya](http://sgunasekar.github.io/), [Aditya](https://adityakusupati.github.io/) and me Mt. Royal."
+    title: "[Naga](https://twitter.com/naga86), [Praneeth](http://praneethnetrapalli.org), [Suriya](http://sgunasekar.github.io/), [Aditya](https://adityakusupati.github.io/) and me Mt. Royal."
   - image_path: Canada-2018/image_5.jpg
-    excerpt: "The St. Joseph Oratory, Montreal"
+    title: "The St. Joseph Oratory, Montreal"
 feature_row:
   - image_path: Canada-2018/image_4.jpg
     title: "At the poster presentation session, NeurIPS 2018."
