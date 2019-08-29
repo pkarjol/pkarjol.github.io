@@ -17,6 +17,10 @@ gallery:
     image_path: Canada-2018/image_3.jpg
     alt: "Me standing near the confenrence center, shiverring"
     title: "Me standing near the confenrence center, shiverring"
+  - url: Canada-2018/image_4.jpg
+    image_path: Canada-2018/image_4.jpg
+    alt: "During the poster presentation at NeurIPS 2018"
+    title: "During the poster presentation at NeurIPS 2018"
 ---
 
 {% include gallery caption="Montreal, Canada during NeurIPS'18" %}
