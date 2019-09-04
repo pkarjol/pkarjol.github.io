@@ -1,7 +1,7 @@
 ---
 title: "Melbourne, Australia during WSDM 2019"
 layout: splash
-permalink: /misc/2019-12-Melbourne-Neurips/
+permalink: /misc/2019-12-Melbourne-WSDM/
 date: 2019-02-16
 header:
   overlay_color: "#000"
@@ -17,7 +17,7 @@ gallery:
     title: "Yarra river, near the Conference Center."
   - image_path: Melbourne-2019/image_4.jpg
     url: Melbourne-2019/image_4.jpg
-    title: "At the WSDM 2019 conference, at Melbourne Convention and Exhibition Centre."
+    title: "At St. Kilda Melbourne beach with Himanshu Jain and Gaurush Hiranandani."
   - image_path: Melbourne-2019/image_3.jpg
     url: Melbourne-2019/image_3.jpg
     title: "Melbourne city from 89th floor Eureka Tower."
