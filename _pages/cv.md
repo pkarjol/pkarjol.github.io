@@ -30,7 +30,7 @@ Education
 * Ph.D. student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/){:target="_blank"}, 2019 - Present<br>
 [University of Washington](https://www.washington.edu/){:target="_blank"}<br>
 Advisor: [Prof. Sewoong Oh](https://homes.cs.washington.edu/~sewoong/){:target="_blank"}
-* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2013-17<br>
+* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2013 - 17<br>
 [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}
 
 <!-- * M.S. in Jekyll, Github University, 2014
