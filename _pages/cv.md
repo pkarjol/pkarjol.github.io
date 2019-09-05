@@ -27,8 +27,11 @@ I seek to solve theoretical machine learning problems using ideas from optimizat
 
 Education
 ------
-* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, [Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}, 2017.<br>
-CGPA 9.10/10 (9.30/10 in major courses).
+* Ph.D. student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/){:target="_blank"}<br>
+[University of Washington](https://www.washington.edu/){:target="_blank"}, 2019 - Present<br>
+Advisor: [Prof. Sewoong Oh](https://homes.cs.washington.edu/~sewoong/){:target="_blank"}
+* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}<br>
+[Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}, 2013-17.<br>
 
 <!-- * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected) -->
