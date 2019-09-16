@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Raghav Somani"
   avatar           : "profile.jpg"
-  bio              : "Incoming 1<sup>st</sup> year Ph.D. student<br>Paul G. Allen School of Computer Science and Engineering<br>University of Washington"
-  location         : "Seattle, USA"
+  bio              : "Incoming 1<sup>st</sup> year Ph.D. student<br>Paul G. Allen School of Computer Science and Engineering"
+  location         : "Bill & Melinda Gates Center<br>For Computer Science & Engineering, CSE2 252"
   employer         : "University of Washington"
   googlescholar    : "https://scholar.google.co.in/citations?user=0M99MEYAAAAJ&hl=en"
   email            : # "raghavs@cs.washington.edu"
