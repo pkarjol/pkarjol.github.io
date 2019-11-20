@@ -9,7 +9,7 @@ paperurl: 'https://www.tandfonline.com/doi/full/10.1080/23737484.2017.1392266'
 arxiv: 'https://arxiv.org/abs/1707.02294'
 year: '2017 - Issue 1-2'
 authors: 'Arabin Kumar Dey, Raghav Somani & Sreangsu Acharyya'
-bib: 'https://ui.adsabs.harvard.edu/abs/2017arXiv170702294D/exportcitation'
+bib: 'https://www.tandfonline.com/action/showCitFormats?doi=10.1080%2F23737484.2017.1392266'
 ---
 In this article, we provide a formulation of empirical Bayes Atchadé to tune the hyperparameters of priors used in Bayesian set-up of collaborative filter. We implement the same in a MovieLens small dataset. We see that it can be used to get a good initial choice for the parameters. It can also be used to guess an initial choice for hyperparameters in grid search procedure even for the datasets where MCMC oscillates around the true value or takes a long time to converge.
 
