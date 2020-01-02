@@ -18,9 +18,6 @@ gallery:
   - image_path: Vancouver-2019/image_3.jpg
     url: Vancouver-2019/image_3.jpg
     title: "Near Canada Place around the Convention center."
-  <!-- - image_path: Vancouver-2019/image_5.jpg
-    url: Vancouver-2019/image_5.jpg
-    title: "The St. Joseph Oratory, Vancouver" -->
 feature_row:
   - image_path: Vancouver-2019/image_4.jpg
     title: "At the poster presentation session, SEDL 2019, NeurIPS 2019."
