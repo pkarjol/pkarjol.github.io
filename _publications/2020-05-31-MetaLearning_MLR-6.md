@@ -1,19 +1,19 @@
 ---
-title: "Non-Gaussianity of Stochastic Gradient Noise"
+title: "Meta-learning for mixed linear regression"
 collection: publications
-permalink: /publications/2019-10-01-SGDNoise-4
-excerpt: 'We study the distribution of the Stochastic Gradient Noise during the training and observe that for batch sizes $$256$$ and above, the distribution is best described as Gaussian at-least in the early phases of training.'
-date: 2019-10-01
-venue: 'Science meets Engineering of Deep Learning (SEDL) workshop, Neural Information Processing Systems (NeurIPS)'
-year: '2019'
-authors: 'Abhishek Panigrahi, Raghav Somani, Navin Goyal & Praneeth Netrapalli'
-arxiv: 'https://arxiv.org/abs/1910.09626'
-bib: 'https://ui.adsabs.harvard.edu/abs/2019arXiv191009626P/exportcitation'
+permalink: /publications/2020-05-31-MetaLearning_MLR-6
+excerpt: 'The paper has been accepted for a presentation.'
+date: 2020-05-31
+venue: 'International Conference on Machine Learning (ICML), 2020'
+year: '2020'
+authors: 'Weihao Kong, Raghav Somani, Zhao Song, Sham Kakade, Sewoong Oh'
+arxiv: 'https://arxiv.org/abs/2002.08936'
+bib: 'https://ui.adsabs.harvard.edu/abs/2020arXiv200208936K'
 
 ---
-What enables Stochastic Gradient Descent (SGD) to achieve better generalization than Gradient Descent (GD) in Neural Network training? This question has attracted much attention. In this paper, we study the distribution of the Stochastic Gradient Noise (SGN) vectors during the training. We observe that for batch sizes $$256$$ and above, the distribution is best described as Gaussian at-least in the early phases of training. This holds across data-sets, architectures, and other choices.
+In modern supervised learning, there are a large number of tasks, but many of them are associated with only a small amount of labeled data. These include data from medical image processing and robotic interaction. Even though each individual task cannot be meaningfully trained in isolation, one seeks to meta-learn across the tasks from past experiences by exploiting some similarities. We study a fundamental question of interest: When can abundant tasks with small data compensate for lack of tasks with big data? We focus on a canonical scenario where each task is drawn from a mixture of $$k$$ linear regressions, and identify sufficient conditions for such a graceful exchange to hold; The total number of examples necessary with only small data tasks scales similarly as when big data tasks are available. To this end, we introduce a novel spectral approach and show that we can efficiently utilize small data tasks with the help of $$\tilde\Omega(k^{3/2})$$ medium data tasks each with $$\tilde\Omega(k^{1/2})$$ examples.
 
-The paper has been accepted at the [SEDL workshop](https://sites.google.com/view/sedl-neurips-2019/){:target="_blank"} at [NeurIPS 2019](https://nips.cc/Conferences/2019){:target="_blank"}.
+The paper has been accepted at the [ICML 2020](https://icml.cc/Conferences/2020){:target="_blank"}.
 
 Please find the below resources
-1. [ArXiv](https://arxiv.org/pdf/1910.09626.pdf){:target="_blank"}.
+1. [ArXiv](){:target="_blank"}.
