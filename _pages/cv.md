@@ -62,6 +62,10 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+[Professional service]
+------
+* Reviewer for NeurIPS '[20](https://neurips.cc/Conferences/2020)
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
