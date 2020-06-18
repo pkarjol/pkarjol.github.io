@@ -62,7 +62,7 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-[Professional service]
+Professional service
 ------
 * Reviewer for NeurIPS '[20](https://neurips.cc/Conferences/2020)
 
