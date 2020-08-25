@@ -16,7 +16,7 @@ Research Interests
 I seek to solve theoretical machine learning problems using ideas from optimization, high dimensional probability theory and statistics.
 
 * Major Interests - Machine Learning, Large Scale Optimization, High dimensional probability
-* Others - Random Matrix theory, Learning Theory, Applied mathematics
+* Others - Random Matrix theory, Learning Theory, Pure mathematics
 
 [Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
 ------
