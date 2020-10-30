@@ -13,10 +13,10 @@ The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\fi
 
 Research Interests
 ------
-I seek to solve theoretical machine learning problems using ideas from optimization, high dimensional probability theory and statistics.
+I seek to solve theoretical machine learning problems using ideas from mathematical optimization, probability theory and statistics.
 
 * Research Interests - Machine Learning, Large Scale Optimization, Probability theory
-* Other Learning Interests - Differential Geometry, Variational Analysis
+* Other Learning Interests - Differential Geometry
 
 [Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
 ------
@@ -62,9 +62,9 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Professional service
+Professional services
 ------
-* Reviewer for NeurIPS '[20](https://neurips.cc/Conferences/2020)
+* Reviewer for [NeurIPS '20](https://neurips.cc/Conferences/2020)
 
 <!-- Talks
 ======
