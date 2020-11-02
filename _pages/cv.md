@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Raghav_CV.pdf){: .btn .btn--info}
+The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--info}
 
 Research Interests
 ------
-I seek to solve theoretical machine learning problems using ideas from mathematical optimization, probability theory and statistics.
+I am interested in theoretical machine learning, especially in robust supervised learning and generalization properties of overparameterized networks.
 
-* Research Interests - Machine Learning, Large Scale Optimization, Probability theory
-* Other Learning Interests - Differential Geometry
+* Research Interests - Machine Learning
+* Other Learning Interests - Statistical Physics perspective of Machine Learning
 
-[Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
+[Publications](https://dbp1994.github.io/publications/){:target="_blank"}
 ------
 
   <ul>{% for post in site.publications reversed %}
@@ -27,27 +27,17 @@ I seek to solve theoretical machine learning problems using ideas from mathemati
 
 Education
 ------
-* Ph.D. student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/){:target="_blank"}, 2019 - Present<br>
-[University of Washington](https://www.washington.edu/){:target="_blank"}<br>
-Advisor: [Prof. Sewoong Oh](https://homes.cs.washington.edu/~sewoong/){:target="_blank"}
-* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2013 - 17<br>
-[Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}
-
-<!-- * M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected) -->
+* M.Tech(Research) student at [Department of Electrical Engineering](www.ee.iisc.ac.in){:target="_blank"}, 2018 - Present<br>
+[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}<br>
+Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
 Work experience
 ------
 
-* July 2017 - July 2019: [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/#!research-fellow-program){:target="_blank"}
-  * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
-  * Mentors: [Dr. Praneeth Netrapalli](https://www.microsoft.com/en-us/research/people/praneeth/){:target="_blank"} and [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/){:target="_blank"}
-  * Project group: [Provable Non-convex Optimization for Machine Learning Problems](https://www.microsoft.com/en-us/research/project/provable-non-convex-optimization-for-machine-learning-problems/){:target="_blank"}
-
-* Summer 2016: Research Intern
-  * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
-  * Supervisor: Dr. Sreangsu Acharyya
-  * Project: [Clustered Monotone Transforms for Rating Factorization](https://raghavsomani.github.io/projects/2018-08-16-project-2){:target="_blank"}
+* September 2017 - July 2018: Project Assistant{:target="_blank"}
+  * [Department of Electrical Engineering](www.ee.iisc.ac.in){:target="_blank"}
+  * Mentors: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
+  * Project Details:
 
 * Summer 2015: Summer Research Intern
   * [CAFRAL - RBI](http://www.cafral.org.in/)
