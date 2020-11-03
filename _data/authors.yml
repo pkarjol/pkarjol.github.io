@@ -20,7 +20,7 @@ Name2 Name2:
 Deep Patel:
   name        : "Deep Patel"
   bio         : ""
-  avatar      : "profile.jpg"
+  avatar      : "deep-patel-dp.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
