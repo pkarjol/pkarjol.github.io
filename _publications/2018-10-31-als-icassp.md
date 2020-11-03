@@ -15,7 +15,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/8461836'
 <!-- code: 'https://github.com/RaghavSomani/CMTRF' -->
 Detecting onset of ALS using a data driven approach. The paper has been accepted at [ICASSP 2018](https://ieeexplore.ieee.org/document/8461836){:target="_blank"}.
 
-Please find the below resources
+Relevant links:
 1. [Paper](https://ieeexplore.ieee.org/document/8461836){:target="_blank"}.
 <!-- 2. [Poster](https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf){:target="_blank"}. -->
 
