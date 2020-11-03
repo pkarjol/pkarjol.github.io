@@ -15,8 +15,8 @@ Research Interests
 ------
 I am interested in theoretical machine learning, especially in robust supervised learning and generalization properties of overparameterized networks.
 
-* Research Interests - Machine Learning
-* Other Learning Interests - ...
+<!--* Research Interests - Machine Learning
+* Other Learning Interests - ... -->
 
 [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
 ------
