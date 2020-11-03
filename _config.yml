@@ -11,11 +11,11 @@
 locale                   : "en-US"
 title                    : "Raghav Somani"
 title_separator          : "-"
-name                     : &name "Raghav Somani"
-description              : &description "2<sup>nd</sup> year Ph.D. student \n University of Washington"
-url                      : https://raghavsomani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Deep Patel"
+description              : &description "3<sup>rd</sup> year M.Tech(Research) student \n Indian Institute of Science"
+url                      : https://dbp1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RaghavSomani/raghavsomani.github.io"
+repository               : "dbp1994/dbp1994.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) (Raghav - true has some bug)
 words_per_minute         : 160
@@ -23,7 +23,7 @@ read_more                : "enabled" # if enabled, adds "Read more" links to exc
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "raghavsomani"
+    shortname            : "deeppatel"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Raghav Somani"
-  avatar           : "profile.jpg"
-  bio              : "2<sup>nd</sup> year Ph.D. student in<br>Machine Learning<br>Paul G. Allen School of Computer Science and Engineering"
-  location         : "CSE2 231, Bill & Melinda Gates Center"
-  employer         : "University of Washington"
-  googlescholar    : "https://scholar.google.co.in/citations?user=0M99MEYAAAAJ&hl=en"
-  email            : # "raghavs@cs.washington.edu"
+  name             : "Deep Patel"
+  avatar           : "deep-patel-dp.jpg"
+  bio              : "3<sup>rd</sup> year M.Tech(Research) student in<br>Machine Learning<br>Department of Electrical Engineering"
+  location         : "C-235, Learning Systems & Multimedia Lab"
+  employer         : "Indian Institute of Science"
+  googlescholar    : "https://scholar.google.com/citations?user=VDmcq5wAAAAJ&hl=en"
+  email            : "dbp.patel.1994@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,25 +95,25 @@ author:
   flickr           :
   facebook         : # "raghavsomani95"
   foursquare       :
-  github           : # "RaghavSomani"
+  github           : "dbp1994"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "raghavsomani"
-  orcid            : "https://orcid.org/0000-0002-0048-3490"
+  linkedin         : "deep-patel-7032b3a1"
+  orcid            : #"https://orcid.org/0000-0002-0048-3490"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SomaniRaghav"
+  twitter          : "dbp_patel_1994"
   vine             :
   weibo            :
   xing             :
-  youtube          : "raghavsomani1995"
+  youtube          : #"raghavsomani1995"
   wikipedia        :
-  dblp             : "https://dblp.org/pers/hd/s/Somani:Raghav"
+  dblp             : #"https://dblp.org/pers/hd/s/Somani:Raghav"
 
 
 # Reading Files
