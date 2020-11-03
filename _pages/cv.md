@@ -25,13 +25,6 @@ I am interested in theoretical machine learning. My current research interests a
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-[Projects](https://dbp1994.github.io/projects/){:target="_blank"}
-------
-
-  <ul>{% for post in site.projects reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Education
 ------
 * M.Tech (Research), August 2018 - Present<br>
@@ -56,6 +49,13 @@ Teaching experience
 * September 2020 - January 2021: Teaching Assistant
   * Course: Stochastic Models & Applications
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+
+[Projects](https://dbp1994.github.io/projects/){:target="_blank"}
+------
+
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 <!-- Professional services
 ------
