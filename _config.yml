@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghav Somani"
+title                    : "Deep Patel"
 title_separator          : "-"
 name                     : &name "Deep Patel"
 description              : &description "3<sup>rd</sup> year M.Tech(Research) student \n Indian Institute of Science"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Deep Patel"
   avatar           : "deep-patel-dp.jpg"
-  bio              : "3<sup>rd</sup> year M.Tech(Research) student in<br>Machine Learning<br>Department of Electrical Engineering"
-  location         : "C-235, Learning Systems & Multimedia Lab"
+  bio              : "M.Tech(Research) in <br>Machine Learning<br> Department of Electrical Engineering" # 3<sup>rd</sup>
+  location         : "C-235,\n Learning Systems & Multimedia Lab"
   employer         : "Indian Institute of Science"
   googlescholar    : "https://scholar.google.com/citations?user=VDmcq5wAAAAJ&hl=en"
   email            : "dbp.patel.1994@gmail.com"
