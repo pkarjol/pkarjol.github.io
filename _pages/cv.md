@@ -13,7 +13,7 @@ The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\fi
 
 Research Interests
 ------
-I am interested in theoretical machine learning, especially in robust supervised learning and generalization properties of overparameterized networks.
+I am interested in theoretical machine learning. My current research interests are robust supervised learning in the presence of label noise and generalization properties of overparameterized neural networks.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
