@@ -16,7 +16,7 @@ Research Interests
 I am interested in theoretical machine learning, especially in robust supervised learning and generalization properties of overparameterized networks.
 
 * Research Interests - Machine Learning
-* Other Learning Interests - Statistical Physics perspective of Machine Learning
+* Other Learning Interests - ...
 
 [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
 ------
@@ -27,15 +27,15 @@ I am interested in theoretical machine learning, especially in robust supervised
 
 Education
 ------
-* M.Tech(Research) student at [Department of Electrical Engineering](www.ee.iisc.ac.in){:target="_blank"}, 2018 - Present<br>
+* M.Tech(Research) student at [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}, 2018 - Present<br>
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
 Work experience
 ------
 
-* September 2017 - July 2018: Project Assistant{:target="_blank"}
-  * [Department of Electrical Engineering](www.ee.iisc.ac.in){:target="_blank"}
+* September 2017 - July 2018: Project Assistant
+  * [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}
   * Mentors: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
   * Project Details:
 
@@ -44,17 +44,34 @@ Work experience
   * Supervisor: [Dr. N. R. Prabhala](https://www.rhsmith.umd.edu/directory/nagpurnanand-r-prabhala){:target="_blank"}
   * Project: [Economic Policy Uncertainty Index](https://raghavsomani.github.io/projects/2015-07-20-project-1){:target="_blank"} - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
 
+Teaching experience
+------
+* January 2020 - April 2020: Teaching Assistant
+  * Course: Pattern Recognition and Neural Networks
+  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+  
+* September 2020 - January 2021: Teaching Assistant
+  * Course: Stochastic Models & Applications
+  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
-[Projects](https://raghavsomani.github.io/publications/){:target="_blank"}
+[Publications](https://dbp1994.github.io/publications/){:target="_blank"}
+------
+
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+ [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
 ------
 
   <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Professional services
+<!-- Professional services
 ------
 * Reviewer for [NeurIPS '20](https://neurips.cc/Conferences/2020)
+-- >
 
 <!-- Talks
 ======
