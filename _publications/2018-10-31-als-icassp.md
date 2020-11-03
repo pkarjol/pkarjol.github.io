@@ -17,7 +17,7 @@ Detecting onset of ALS using a data driven approach. The paper has been accepted
 
 Relevant links:
 1. [Paper](https://ieeexplore.ieee.org/document/8461836){:target="_blank"}
-<!-- 2. [Poster](https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf){:target="_blank"}. -->
+2. [Poster](https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf){:target="_blank"}
 
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KyHUan_7YnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
