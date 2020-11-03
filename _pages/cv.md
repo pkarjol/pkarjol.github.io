@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--info}
+The detailed PDF version of my CV can be found here - [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--info}
 
 Research Interests
 ------
-I am interested in theoretical machine learning. My current research interests are robust supervised learning in the presence of label noise and generalization properties of overparameterized neural networks.
+I am interested in theoretical machine learning. My current research interest is robust supervised learning in the presence of label noise.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
