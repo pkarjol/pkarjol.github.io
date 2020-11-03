@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.Tech(Research) student in Machine Learning at [Department of Electrical Engineering](www.ee.iisc.ac.in/){:target="_blank"} at [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}.
+I am a M.Tech(Research) student in Machine Learning at [Department of Electrical Engineering](www.ee.iisc.ac.in){:target="_blank"} at [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}.
 
 I am interested in Robust Supervised Learning and generalization in overparameterized networks. I like doing back-of-the-envelope physics in my free time.
 
