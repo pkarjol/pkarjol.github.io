@@ -8,6 +8,7 @@ venue: 'International Conference on Acoustics, Speech, and Signal Processing (IC
 year: '2018'
 authors: 'Aravind Illa, Deep Patel, BK Yamini, Meera SS, Shivashankar N, Preethish-Kumar Veeramani, Seena Vengalil, Kiran Polavarapu, Saraswati Nashi, Atchayaram Nalini, Prasanta Kumar Ghosh'
 paperurl: 'https://ieeexplore.ieee.org/document/8461836'
+poster: 'https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf'
 
 ---
 
