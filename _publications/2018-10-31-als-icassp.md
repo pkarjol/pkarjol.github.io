@@ -6,12 +6,13 @@ excerpt: 'The paper has been accepted for poster persentation'
 date: 2018-10-31
 venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
 year: '2018'
-authors: 'Aravind Illa, Deep Patel, BK Yamini, Meera SS, Shivashankar N, Preethish-Kumar Veeramani,Seena Vengalil, Kiran Polavarapu, Saraswati Nashi, Atchayaram Nalini, Prasanta Kumar Ghosh'
+authors: 'Aravind Illa, Deep Patel, BK Yamini, Meera SS, Shivashankar N, Preethish-Kumar Veeramani, Seena Vengalil, Kiran Polavarapu, Saraswati Nashi, Atchayaram Nalini, Prasanta Kumar Ghosh'
 paperurl: 'https://ieeexplore.ieee.org/document/8461836'
-<!-- bib: 'https://dl.acm.org/downformats.cfm?id=3291005&parent_id=3289600&expformat=bibtex' -->
-<!-- code: 'https://github.com/RaghavSomani/CMTRF' -->
 
 ---
+
+<!-- bib: 'https://dl.acm.org/downformats.cfm?id=3291005&parent_id=3289600&expformat=bibtex' -->
+<!-- code: 'https://github.com/RaghavSomani/CMTRF' -->
 Detecting onset of ALS using a data driven approach. The paper has been accepted at [ICASSP 2018](https://ieeexplore.ieee.org/document/8461836){:target="_blank"}.
 
 Please find the below resources
