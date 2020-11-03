@@ -28,7 +28,8 @@ I am interested in theoretical machine learning, especially in robust supervised
 Education
 ------
 * M.Tech (Research), August 2018 - Present<br>
-[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}<br>
+[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
+[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
 Work experience
