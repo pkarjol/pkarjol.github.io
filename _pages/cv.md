@@ -39,11 +39,6 @@ Work experience
   * Mentors: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
   * Project Details:
 
-* Summer 2015: Summer Research Intern
-  * [CAFRAL - RBI](http://www.cafral.org.in/)
-  * Supervisor: [Dr. N. R. Prabhala](https://www.rhsmith.umd.edu/directory/nagpurnanand-r-prabhala){:target="_blank"}
-  * Project: [Economic Policy Uncertainty Index](https://raghavsomani.github.io/projects/2015-07-20-project-1){:target="_blank"} - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
-
 Teaching experience
 ------
 * January 2020 - April 2020: Teaching Assistant
@@ -54,14 +49,7 @@ Teaching experience
   * Course: Stochastic Models & Applications
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
-[Publications](https://dbp1994.github.io/publications/){:target="_blank"}
-------
-
-  <ul>{% for post in site.projects reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
- [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
+[Projects](https://dbp1994.github.io/projects/){:target="_blank"}
 ------
 
   <ul>{% for post in site.projects reversed %}
