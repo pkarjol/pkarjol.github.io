@@ -13,7 +13,7 @@ The detailed PDF version of my CV can be found here - [__Curriculum Vitae__](\fi
 
 Research Interests
 ------
-I am interested in theoretical machine learning. My current research interest is robust supervised learning in the presence of label noise.
+My first encounter with Machine Learning was during the project I worked at SPIRE lab (speech-based onset detection of ALS and Parkinson's). However, I have shifted my focus to theoretical machine learning and my current research interest is in _robust supervised learning_ in the presence of _label noise_.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
