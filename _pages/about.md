@@ -10,7 +10,7 @@ redirect_from:
 
 I am a M.Tech (Research) student at [Department of Electrical Engineering](www.ee.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}.
 
-Currently, my research interests are _robust supervised learning_ and _generalization in overparameterized networks_.
+Currently, my research interest is _robust supervised learning_ where the robustness is against _label noise_.
 
 Previously, I spent a year as a Project Assistant at [SPIRE Lab](https://spire.ee.iisc.ac.in/spire/index.php){:target="_blank"} where I was advised by [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/new/people/faculty/prasantg/){:target="_blank"} on speech based detection of onset of Amyotrophic Lateral Sclerosis (ALS) and Parkinson's Disease.
 
