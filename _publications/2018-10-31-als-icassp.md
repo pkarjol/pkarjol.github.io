@@ -14,7 +14,12 @@ poster: 'https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf
 
 <!-- bib: 'https://dl.acm.org/downformats.cfm?id=3291005&parent_id=3289600&expformat=bibtex' -->
 <!-- code: 'https://github.com/RaghavSomani/CMTRF' -->
-Detecting onset of ALS using a data driven approach. The paper has been accepted at [ICASSP 2018](https://ieeexplore.ieee.org/document/8461836){:target="_blank"}.
+
+In this work, we consider the task of acoustic and articulatory feature based automatic classification of Amyotrophic Lateral Sclerosis (ALS) patients and healthy subjects using speech tasks. In particular, we compare the roles of different types of speech tasks, namely rehearsed speech, spontaneous speech and repeated words for this purpose. Simultaneous articulatory and speech data were recorded from 8 healthy controls and 8 ALS patients using AG501 for the classification experiments. In addition to typical acoustic and articulatory features, new articulatory features are proposed for classification. As classifiers, both Deep Neural Networks (DNN) and Support Vector Machines (SVM) are examined. Classification experiments reveal that the proposed articulatory features outperform other acoustic and articulatory features using both DNN and SVM classifier.
+
+The paper has been accepted at [ICASSP 2018](https://ieeexplore.ieee.org/document/8461836){:target="_blank"}.
+
+Abstract:
 
 Relevant links:
 1. [Paper](https://ieeexplore.ieee.org/document/8461836){:target="_blank"}
