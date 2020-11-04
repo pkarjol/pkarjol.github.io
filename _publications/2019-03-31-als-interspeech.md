@@ -13,7 +13,10 @@ paperurl: 'https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.h
 
 <!-- bib: 'https://dl.acm.org/downformats.cfm?id=3291005&parent_id=3289600&expformat=bibtex' -->
 <!-- code: 'https://github.com/dbp1994/CMTRF' -->
-Detecting onset of ALS and Parkinson's Disease using a data driven approach. The paper has been accepted at [Interspeech 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html){:target="_blank"}.
+
+Abstract: We consider the task of speech based automatic classification of patients with amyotrophic lateral sclerosis (ALS) and healthy subjects. The role of different speech tasks and recording devices on classification accuracy is examined. Sustained phoneme production (PHON), diadochokinetic task (DDK) and spontaneous speech (SPON) have been used as speech tasks. The chosen five recording devices include a high quality microphone and built-in smartphone microphones at various price ranges. Experiments are performed using speech data from 25 ALS patients and 25 healthy subjects using support vector machines and deep neural networks as classifiers and suprasegmental features based on mel frequency cepstral coefficients. Results reveal that DDK consistently performs better than SPON and PHON across all devices for discriminating ALS patients and healthy subjects. Considering DDK, the best classification accuracy of 92.2% is obtained using a high quality microphone but the accuracy drops if there is a mismatch between the microphones for training and test. However, a classifier trained with recordings from all devices together performs more uniformly across all devices. The findings from this study could aid in determining the choice of the task and device in developing an assistive tool for detection and monitoring of ALS.
+
+The paper has been accepted at [Interspeech 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html){:target="_blank"}.
 
 Relevant links:
 1. [Paper](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html){:target="_blank"}.
