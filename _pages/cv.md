@@ -42,12 +42,13 @@ Work experience
 
 Teaching experience
 ------
-* January 2020 - April 2020: Teaching Assistant
-  * Course: Pattern Recognition and Neural Networks
-  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
-  
+
 * September 2020 - January 2021: Teaching Assistant
   * Course: Stochastic Models & Applications
+  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+
+* January 2020 - April 2020: Teaching Assistant
+  * Course: Pattern Recognition and Neural Networks
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
 [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
