@@ -18,19 +18,25 @@ My first encounter with Machine Learning was during the project ([link](https://
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
 
-[Publications](https://dbp1994.github.io/publications/){:target="_blank"}
+<!-- [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
 ------
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+ -->
 
 Education
 ------
-* M.Tech (Research), August 2018 - Present<br>
+* M.Tech (Research), 2018 - Present<br>
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+
+* B.Tech (Electrical Engineering), 2012 - 2016 <br
+School of Technology, <br>
+PDPU, Gujarat<br>
 
 Work experience
 ------
@@ -38,7 +44,6 @@ Work experience
 * September 2017 - July 2018: Project Assistant
   * [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}
   * Mentors: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
-  * Project Details:
 
 Teaching experience
 ------
