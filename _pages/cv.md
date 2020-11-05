@@ -43,7 +43,8 @@ Work experience
 
 * September 2017 - July 2018: Project Assistant
   * [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}
-  * Mentors: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
+  * Mentor: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
+    * Details in CV
 
 Teaching experience
 ------
