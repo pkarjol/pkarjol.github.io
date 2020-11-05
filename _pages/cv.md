@@ -34,7 +34,7 @@ Education
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
-* B.Tech (Electrical Engineering), 2012 - 2016 <br
+* B.Tech (Electrical Engineering), 2012 - 2016 <br>
 School of Technology, <br>
 PDPU, Gujarat<br>
 
