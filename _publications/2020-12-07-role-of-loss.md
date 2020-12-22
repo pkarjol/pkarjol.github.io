@@ -1,9 +1,9 @@
 ---
 title: "Memorization in Deep Neural Networks: Does the Loss Function matter?"
 collection: publications
-permalink: /publications/2020-07-12-role-of-loss
+permalink: /publications/2020-12-07-role-of-loss
 excerpt: 'The paper is under review.'
-date: 2020-07-12
+date: 2020-12-07
 year: '2020'
 authors: 'Deep Patel, PS Sastry'
 
