@@ -25,7 +25,7 @@ My first encounter with Machine Learning was during the project ([link](https://
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Publications
+Publications \[Related to Thesis\]
 ------
 * Memorization in Deep Neural Networks: Does the Loss Function matter? \[under review\]
 
