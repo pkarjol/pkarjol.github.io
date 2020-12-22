@@ -18,14 +18,12 @@ My first encounter with Machine Learning was during the project ([link](https://
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
 
-<!-- [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
+[Publications](https://dbp1994.github.io/publications/){:target="_blank"}
 ------
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
- -->
 
 Education
 ------
