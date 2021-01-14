@@ -12,7 +12,7 @@ I am a M.Tech (Research) student at [Department of Electrical Engineering](http:
 
 Currently, as a part of my thesis, my research is about _robust supervised learning in the presence of label noise_.
 
-Previously, I spent a year as a Project Assistant at [SPIRE Lab](https://spire.ee.iisc.ac.in/spire/index.php){:target="_blank"} where I was advised by [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/new/people/faculty/prasantg/){:target="_blank"} on speech based detection of onset of Amyotrophic Lateral Sclerosis (ALS) and Parkinson's Disease.
+Previously, I spent a year as a Project Assistant at [SPIRE Lab, IISc](https://spire.ee.iisc.ac.in/spire/index.php){:target="_blank"} where I was advised by [Prof. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/new/people/faculty/prasantg/){:target="_blank"} on speech-based automated disease onset detection and severity prediction of Amyotrophic Lateral Sclerosis (ALS) and Parkinson's Disease.
 
 Here is my [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--inverse}
 
