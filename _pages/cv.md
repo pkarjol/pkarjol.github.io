@@ -13,7 +13,7 @@ The detailed PDF version of my CV can be found here - [__Curriculum Vitae__](\fi
 
 Research Interests
 ------
-My first encounter with Machine Learning was during the project ([link](https://dbp1994.github.io/projects/2018-11-03-project){:target="_blank"}) I worked on at SPIRE lab. However, I have shifted my focus to theoretical machine learning and my current research interest is in _robust supervised learning_ in the presence of _label noise_.
+My foray into Machine Learning was the speech-based disease onset detection project ([link](https://dbp1994.github.io/projects/2018-11-03-project){:target="_blank"}) I worked on at SPIRE lab. However, I have shifted my focus to theoretical machine learning and my current research interest is in _robust supervised learning_ in the presence of _label noise_.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
