@@ -27,7 +27,7 @@ My foray into Machine Learning was the speech-based disease onset detection proj
 
 Publications \[Related to Thesis\]
 ------
-* Memorization in Deep Neural Networks: Does the Loss Function matter? \[under review\]
+* Memorization in Deep Neural Networks: Does the Loss Function matter? \[PAKDD, 2021\]
 
 Other Publications
 ------
