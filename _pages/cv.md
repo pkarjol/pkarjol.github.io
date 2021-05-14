@@ -25,18 +25,33 @@ My foray into Machine Learning was the speech-based disease onset detection proj
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
+Theses
+------
+* M.Tech (Research), 2018 - 2021 <br>
+[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
+[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
+Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+Thesis: [pdf link](https://google.com) (UNDER REVIEW)
+
 Publications \[Related to Thesis\]
 ------
-* Memorization in Deep Neural Networks: Does the Loss Function matter? \[PAKDD, 2021\]
+* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[paper\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[code\]
+* Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[paper\] \[video\] \[code\]
 
 Other Publications
 ------
 * Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[paper](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\]
 * Comparison of Speech Tasks for Automatic Classification of Patients with Amyotrophic Lateral Sclerosis and Healthy Subjects - International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018 \[[paper](https://ieeexplore.ieee.org/document/8461836)\]
 
+Talks
+------
+* Adaptive Sample Selection for Robust Learning under Label Noise \[[video](https://youtu.be/N4dpONCMyeg)\] <br>
+ [EECS Symposium 2021](https://eecs.iisc.ac.in/EECS2021/){:target="_blank"},
+ [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore <br>
+
 Education
 ------
-* M.Tech (Research), 2018 - Present<br>
+* M.Tech (Research), 2018 - 2021 <br>
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
@@ -75,6 +90,8 @@ Teaching experience
 ------
 * Reviewer for [NeurIPS '20](https://neurips.cc/Conferences/2020)
 -- >
+
+
 
 <!-- Talks
 ======
