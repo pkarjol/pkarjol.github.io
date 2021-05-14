@@ -27,9 +27,9 @@ My foray into Machine Learning was the speech-based disease onset detection proj
 
 Theses
 ------
-* M.Tech (Research), [Department of Electrical Engineering, IISc](http://www.ee.iisc.ac.in){:target="_blank"},<br>
+* **_A Study of Robust Learning under Label Noise with Neural Networks_**, Master's Thesis<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
-\[[**Thesis**](\files\deep-patel-iisc-masters-thesis_compressed.pdf)\] (_Under Review_) \[[**Colloquium**](\files\deep-masters-colloquium_compressed.pdf)\]
+\[[**Thesis**](\files\deep-patel-iisc-masters-thesis_compressed.pdf)\] (_Under Review_) **|** \[[**Colloquium**](\files\deep-masters-colloquium_compressed.pdf)\]
 
 Publications \[Related to Thesis\]
 ------
