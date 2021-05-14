@@ -31,7 +31,7 @@ Theses
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},<br>
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
-Thesis: [PDF](https://google.com) (_Under Review_)
+Thesis: [PDF](\files\deep-patel-iisc-masters-thesis_compressed.pdf) (_Under Review_) [Presentation]
 
 Publications \[Related to Thesis\]
 ------
