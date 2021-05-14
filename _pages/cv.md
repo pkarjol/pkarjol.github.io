@@ -31,7 +31,7 @@ Theses
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},<br>
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
-Thesis: [pdf link](https://google.com) (UNDER REVIEW)
+Thesis: [PDF](https://google.com) (_Under Review_)
 
 Publications \[Related to Thesis\]
 ------
