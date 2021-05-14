@@ -45,7 +45,7 @@ Other Publications
 
 Talks
 ------
-* Adaptive Sample Selection for Robust Learning under Label Noise \[[video](https://youtu.be/N4dpONCMyeg)\] \[[presentation](deep-patel-eecs-symp-2021.pdf)\]<br>
+* Adaptive Sample Selection for Robust Learning under Label Noise \[[video](https://youtu.be/N4dpONCMyeg)\] \[[presentation](\files\deep-patel-eecs-symp-2021.pdf)\]<br>
  [EECS Symposium 2021](https://eecs.iisc.ac.in/EECS2021/){:target="_blank"},
  [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore <br>
 
