@@ -28,14 +28,14 @@ My foray into Machine Learning was the speech-based disease onset detection proj
 Theses
 ------
 * M.Tech (Research), 2018 - 2021 <br>
-[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
+[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},<br>
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
-Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
 Thesis: [pdf link](https://google.com) (UNDER REVIEW)
 
 Publications \[Related to Thesis\]
 ------
-* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[paper\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[code\]
+* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[paper\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[code\] \[[presentation](\files\pakdd-role-of-loss.pdf)\]
 * Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[paper\] \[video\] \[code\]
 
 Other Publications
@@ -45,7 +45,7 @@ Other Publications
 
 Talks
 ------
-* Adaptive Sample Selection for Robust Learning under Label Noise \[[video](https://youtu.be/N4dpONCMyeg)\] <br>
+* Adaptive Sample Selection for Robust Learning under Label Noise \[[video](https://youtu.be/N4dpONCMyeg)\] \[[presentation](deep-patel-eecs-symp-2021.pdf)\]<br>
  [EECS Symposium 2021](https://eecs.iisc.ac.in/EECS2021/){:target="_blank"},
  [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore <br>
 
