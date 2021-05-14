@@ -27,11 +27,9 @@ My foray into Machine Learning was the speech-based disease onset detection proj
 
 Theses
 ------
-* M.Tech (Research), 2018 - 2021 <br>
-[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},<br>
-[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
+* M.Tech (Research), [Department of Electrical Engineering, IISc](http://www.ee.iisc.ac.in){:target="_blank"},<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
-Thesis: [PDF](\files\deep-patel-iisc-masters-thesis_compressed.pdf) (_Under Review_) [Presentation]
+\[[**Thesis**](\files\deep-patel-iisc-masters-thesis_compressed.pdf)\] (_Under Review_) \[[**Colloquium Presentation**](\files\deep-masters-colloquium_compressed.pdf)\]
 
 Publications \[Related to Thesis\]
 ------
