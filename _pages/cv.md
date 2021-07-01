@@ -13,7 +13,7 @@ The detailed PDF version of my CV can be found here - [__Curriculum Vitae__](\fi
 
 Research Interests
 ------
-My foray into Machine Learning was the speech-based disease onset detection project ([link](https://dbp1994.github.io/projects/2018-11-03-project){:target="_blank"}) I worked on at SPIRE lab. However, I have shifted my focus to theoretical machine learning and my current research interest is in _robust supervised learning_ in the presence of _label noise_. Broadly speaking, I am also interested in exploring the optimization theoretic, information theoretic, and decision-making aspects of machine learning.
+My foray into Machine Learning was the speech-based disease onset detection project ([link](https://dbp1994.github.io/projects/2018-11-03-project){:target="_blank"}) I worked on at SPIRE lab, IISc. However, since then, I have shifted my focus to theoretical machine learning and my current research interests are in: 1.) _geometric deep learning_ for robust deep learning, 2.) feedback in convolutional neural networks, and 3.) _robust supervised learning_ in the presence of _label noise_. Broadly speaking, I am also interested in exploring the optimization theoretic, geometric and topological aspects of machine learning.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
