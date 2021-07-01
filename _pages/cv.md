@@ -34,7 +34,7 @@ Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:t
 Publications \[Related to Thesis\]
 ------
 * Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[paper\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[code\] \[[presentation](\files\pakdd-role-of-loss.pdf)\]
-* Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[paper\] \[video\] \[code\]
+* Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[[arXiv](https://arxiv.org/abs/2106.15292)\] \[video\] \[code\]
 
 Other Publications
 ------
