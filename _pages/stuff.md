@@ -7,7 +7,6 @@ redirect_from:
   - /stuff
 ---
 
-{% include base_path %}
 
  # Personal Library
  
