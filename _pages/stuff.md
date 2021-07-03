@@ -34,12 +34,6 @@ redirect_from:
 | Mythos by Stephen Fry | Non-fiction | (Audible, with me)
 | Pale Blue Dot  | Non-fiction | (Audible, with me)
 | Everybody Loves A Good Drought by P. Sainath | Non-fiction | with me
-| Undercover by Ashish Khetan | Non-fiction | with me
-| Undercover by Ashish Khetan | Non-fiction | with me
-| Undercover by Ashish Khetan | Non-fiction | with me
-| Undercover by Ashish Khetan | Non-fiction | with me
-| Undercover by Ashish Khetan | Non-fiction | with me
-
 
 > More genres to be updated soon.
 
@@ -75,9 +69,6 @@ redirect_from:
 
 <!---
 List of Books I own (/used to)
-
-
-
 
 Fiction
 Watchmen (with me)
