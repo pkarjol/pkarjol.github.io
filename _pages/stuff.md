@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Personal Library
+**Personal Library**
  
 | Author | Title | Subject/Genre | Notes |
 | ----------- | ----------- | ----------- | ----------- |
@@ -32,12 +32,33 @@ Personal Library
 | Fry, Stephen | Mythos | Mythology |  |
 | Sagan, Carl | Pale Blue Dot | Pop. Science |  |
 | Sainath, P. | Everybody Loves A Good Drought | Politics |  |
-
 | Moore, Alan | Watchmen | Science Fiction |  |
-| Morrison, Grant & Mahnke, Doug & Jones, J.G. | Final Crisis | Science Fiction |  |
-| Herbert, Frank | Dune | Science Fiction |  |
-| Hadayat, Sadegh | The Blind Owl | Fiction |  |
-
+| Morrison, Grant & Mahnke, Doug & Jones, J.G. | Final Crisis | Science-fiction |  |
+| Herbert, Frank | Dune | Science-fiction |  |
+| Hedayat, Sadegh | The Blind Owl | Fiction |  |
+| Murakami, Haruki | The Wind Up Bird Chronicles | Fiction |  | 
+| Pynchon, Thomas | Gravity's Rainbow | Historical Fiction |  |
+| Rowling, J.K. | Harry Potter & The Prisoner Of Azkaban | Fantasy |  |
+| Rowling, J.K. | Harry Potter & The Order of The Phoenix | Fantasy |  |
+| Rowling, J.K. | Tales of Beedle the Bard | Fantasy |  |
+| Tolkien, J.R.R. | The Hobbit | Fantasy |  |
+| Tolkien, J.R.R. | The Lord of the Rings Trilogy | Fantasy |  |
+| Tolkien, J.R.R. | Children of Hurin | Fantasy |  |
+| Tolkien, J.R.R. | Silmarilion | Fantasy |  |
+| Tolkien, J.R.R. | Unfinished Tales | Fantasy |  | 
+| Tolkien, J.R.R. | The Legend of Sigurd and Gudrun | Fantasy |  |
+| Paolini, Christopher | Eragon | Fantasy |  | 
+| Rushdie, Salman | Midnight's Children | Fiction |  | 
+| Weir, Andy | The Martian | Science-fiction |  |
+| Lutgendorf, Philip | Tulsidas: The Epic of Rama Volume 1 | Fiction |  | 
+| Funke, Cornelia | The Thief Lord | Fiction |  | 
+| Zafón, Carlos Ruiz | The Shadow of the Wind | Fiction |  |
+| Wodehouse, P.G. | The Best of PG Wodehouse | Fiction |  |
+| Wodehouse, P.G. | P G Wodehouse Collection Vol. I | Fiction | on Audible |
+| Doyle, Arthur C. | Sherlock Holmes: The Definitive Collection | Fiction | on Audible | 
+| Singh, Khushwant | Train to Pakistan | Fiction |  |
+| Tharoor, Shashi | The Great Indian Novel | Fiction |  |
+| Sharma, Pandit Vishnu & Chandiramani, G.L. | Panchtantra | Fiction | on Audible |
 
 > _More titles to be added soon..._
 
