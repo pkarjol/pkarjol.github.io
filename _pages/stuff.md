@@ -63,7 +63,7 @@ redirect_from:
 > _More titles to be added soon..._
 
 
-# Interesting list/links of/on/for...
+# Interesting papers, articles, blogs, books...
 
 ## Books (genre-wise)
 
