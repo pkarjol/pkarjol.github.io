@@ -12,30 +12,28 @@ redirect_from:
 
  # Personal Library
  
- > I won't be able to lend any of these books though.
- 
- | Book | Genre | Status (own/used to) | 
-| ----------- | ----------- | ----------- |
-| ISIS - State of Terror | Non-fiction | with me
-| The Myth of Holy Cow | Non-fiction | with me
-| A Beautiful Mind | Non-fiction | with me
-| The Strangest Man by Graham Farmelo | Non-fiction | with me
-| Belonging: The Story of Jews by Simon Schama | Non-fiction | with me
-| Longitude by Dava Sobel | Non-fiction | with me
-| Plato and Platypus Walk Into A Bar: Understanding Philosophy Through Jokes by Thomas Cathcart & Daniel Klein | Non-fiction | with me
-| Persepolis by Marjane Satrapi | Non-fiction | with me
-| Maus by Art Spiegelman | Non-fiction | with me
-| To Explain The World by Steven Weinberg | Non-fiction | with me
-| In Other Words by Jhumpa Lahiri | Non-fiction | with me
-| Wreck This Journal by Keri Smith | Non-fiction | with me
-| Surely You're Joking, Mr. Feynman by R. Feynman | Non-fiction | with me
-| Undercover by Ashish Khetan | Non-fiction | with me
-| The Story of Secularism by Nalini Rajan | Non-fiction | with me
-| Mythos by Stephen Fry | Non-fiction | (Audible, with me)
-| Pale Blue Dot  | Non-fiction | (Audible, with me)
-| Everybody Loves A Good Drought by P. Sainath | Non-fiction | with me
+| Author | Title | Subject/Genre | Notes |
+| ----------- | ----------- | ----------- | ----------- |
+| Stern, Jessica and Berger, J.M. | ISIS - State of Terror | Politics |  |
+| Jha, D.N. | The Myth of Holy Cow | History |  |
+| Nasar, Sylvia | A Beautiful Mind | Biography |  |
+| Farmelo, Graham | The Strangest Man | Biography |  |
+| Schama, Simon | Belonging: The Story of Jews | History |  |
+| Sobel, Dava | Longitude | Science History |  |
+| Cathcart, Thomas & Klein, Daniel | Plato and Platypus Walk Into A Bar: Understanding Philosophy Through Jokes | Philosophy |  |
+| Satrapi, Marjane | Persepolis | Memoir |  |
+| Spiegelman, Art | Maus | Memoir |  |
+| Weinberg, Steven | To Explain The World | Science History |  |
+| Lahiri, Jhumpa | In Other Words | Non-fiction |  |
+| Smith, Keri | Wreck This Journal | Non-fiction |  |
+| Feynman, Richard | Surely You're Joking, Mr. Feynman | Memoir |  |
+| Khetan, Ashish | Undercover | Political History |  |
+| Rajan, Nalini | The Story of Secularism | History |  |
+| Fry, Stephen | Mythos | Mythology |  |
+| Sagan, Carl | Pale Blue Dot | Pop. Science |  |
+| Sainath, P. | Everybody Loves A Good Drought | Politics |  |
 
-> More genres to be updated soon.
+> _More titles to be added soon..._
 
 
 # Interesting list/links of/on/for...
