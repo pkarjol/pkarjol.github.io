@@ -25,16 +25,17 @@ redirect_from:
 | Spiegelman, Art | Maus | Memoir |  |
 | Weinberg, Steven | To Explain The World | Science History |  |
 | Lahiri, Jhumpa | In Other Words | Non-fiction |  |
-| Smith, Keri | Wreck This Journal | Non-fiction |  |
+| Smith, Keri | Wreck This Journal | Journalling |  |
 | Feynman, Richard | Surely You're Joking, Mr. Feynman | Memoir |  |
 | Khetan, Ashish | Undercover | Political History |  |
 | Rajan, Nalini | The Story of Secularism | History |  |
 | Fry, Stephen | Mythos | Mythology |  |
-| Sagan, Carl | Pale Blue Dot | Pop. Science |  |
+| Sagan, Carl | Pale Blue Dot | Popular Science |  |
 | Sainath, P. | Everybody Loves A Good Drought | Politics |  |
-| Moore, Alan | Watchmen | Science Fiction |  |
+| Moore, Alan | Watchmen | Science-fiction |  |
 | Morrison, Grant & Mahnke, Doug & Jones, J.G. | Final Crisis | Science-fiction |  |
 | Herbert, Frank | Dune | Science-fiction |  |
+| Weir, Andy | The Martian | Science-fiction |  |
 | Hedayat, Sadegh | The Blind Owl | Fiction |  |
 | Murakami, Haruki | The Wind Up Bird Chronicles | Fiction |  | 
 | Pynchon, Thomas | Gravity's Rainbow | Historical Fiction |  |
@@ -49,15 +50,14 @@ redirect_from:
 | Tolkien, J.R.R. | The Legend of Sigurd and Gudrun | Fantasy |  |
 | Paolini, Christopher | Eragon | Fantasy |  | 
 | Rushdie, Salman | Midnight's Children | Fiction |  | 
-| Weir, Andy | The Martian | Science-fiction |  |
 | Lutgendorf, Philip | Tulsidas: The Epic of Rama Volume 1 | Fiction |  | 
 | Funke, Cornelia | The Thief Lord | Fiction |  | 
-| Zafón, Carlos Ruiz | The Shadow of the Wind | Fiction |  |
-| Wodehouse, P.G. | The Best of PG Wodehouse | Fiction |  |
-| Wodehouse, P.G. | P G Wodehouse Collection Vol. I | Fiction | on Audible |
-| Doyle, Arthur C. | Sherlock Holmes: The Definitive Collection | Fiction | on Audible | 
+| Zafón, Carlos Ruiz | The Shadow of the Wind | Fiction |  | 
 | Singh, Khushwant | Train to Pakistan | Fiction |  |
 | Tharoor, Shashi | The Great Indian Novel | Fiction |  |
+| Wodehouse, P.G. | The Best of PG Wodehouse | Fiction |  |
+| Wodehouse, P.G. | P G Wodehouse Collection Vol. I | Fiction | on Audible |
+| Doyle, Arthur C. | Sherlock Holmes: The Definitive Collection | Fiction | on Audible |
 | Sharma, Pandit Vishnu & Chandiramani, G.L. | Panchtantra | Fiction | on Audible |
 
 > _More titles to be added soon..._
