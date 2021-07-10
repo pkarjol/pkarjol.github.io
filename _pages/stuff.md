@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
- ## Personal Library
+Personal Library
  
 | Author | Title | Subject/Genre | Notes |
 | ----------- | ----------- | ----------- | ----------- |
@@ -32,6 +32,12 @@ redirect_from:
 | Fry, Stephen | Mythos | Mythology |  |
 | Sagan, Carl | Pale Blue Dot | Pop. Science |  |
 | Sainath, P. | Everybody Loves A Good Drought | Politics |  |
+
+| Moore, Alan | Watchmen | Science Fiction |  |
+| Morrison, Grant & Mahnke, Doug & Jones, J.G. | Final Crisis | Science Fiction |  |
+| Herbert, Frank | Dune | Science Fiction |  |
+| Hadayat, Sadegh | The Blind Owl | Fiction |  |
+
 
 > _More titles to be added soon..._
 
@@ -67,34 +73,6 @@ redirect_from:
 
 <!---
 List of Books I own (/used to)
-
-Fiction
-Watchmen (with me)
-Final Crisis (with me) (comic book)
-Dune by Frank Herbert (with me)
-The blind owl (with me)
-The wind up bird chronicles by Murakami (with me)
-Gravity's rainbow (with me)
-Tales of beedle the bard (with me)
-Children of Hurin, Silmarilion, Unfinished Tales, Hobbit, LOTR Trilogy (with me)
-Watchmen DC comics (with me)
-Final Crisis DC comics (with me)
-The legend of Sigurd and Gudrun (with me)
-Midnight's children by S Rushdie (with me)
-The Martian by Andy Weir (with me)
-TULSIDAS The Epic of Rama Volume 1 by Philip Lutgendorf (with me)
-The Thief Lord by Cornelia Funke (with me)
-Harry Potter & The Prisoner Of Azkaban by J. K. Rowling (with me)
-Eragon by Christopher Paolini (with me)
-The Shadow of the Wind by Carlos Ruiz Zafón (with me)
-Harry Potter & The Order of The Phoenix (with me)
-The Best of PG Wodehouse (with me)
-Sherlock Holmes (Audible, with me)
-P G Wodehouse Collection Vol. I (Audible, with me)
-Panchtantra (Audible, with me)
-Train to Pakistan by Khushwant Singh (with me)
-The Great Indian Novel (with me)
-
 
 Academic
 Analysis-I by Tao (with me)
