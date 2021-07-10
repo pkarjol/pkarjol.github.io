@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
- # Personal Library
+ ## Personal Library
  
 | Author | Title | Subject/Genre | Notes |
 | ----------- | ----------- | ----------- | ----------- |
