@@ -17,3 +17,12 @@ Previously, I did my M.Tech (Research) with [Prof. PS Sastry](http://www.ee.iisc
 Here is my [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--inverse}
 
 Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `<first_name><second_name>[at]iisc[dot]ac[dot]in`.
+
+
+----------------------------------------------------------------------------------------------------
+
+News
+---
+* 29/06/2021 - New preprint of my work [Adaptive Selection for Robust Learning under label Noise](https://arxiv.org/abs/2106.15292) is up on arXiv.
+* 13/05/2021 - Presented my work at PAKDD 2021.
+* 01/05/2021 - Joined as a Ph.D student under [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"} at the Department of Electrical Engineering, IISc.
