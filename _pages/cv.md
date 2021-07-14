@@ -33,11 +33,15 @@ Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:t
 
 Publications \[Related to Thesis\]
 ------
-* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[paper\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[code\] \[[presentation](\files\pakdd-role-of-loss.pdf)\]
-* Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[[paper](https://arxiv.org/abs/2106.15292)\] \[video\] \[code\]
+## Robust Learning under Label Noise
+
+* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[paper\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[presentation](\files\pakdd-role-of-loss.pdf)\]
+* Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[[paper](https://arxiv.org/abs/2106.15292)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)\]
 
 Other Publications
 ------
+## Analysis of Speech Signals
+
 * Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[paper](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\]
 * Comparison of Speech Tasks for Automatic Classification of Patients with Amyotrophic Lateral Sclerosis and Healthy Subjects - International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018 \[[paper](https://ieeexplore.ieee.org/document/8461836)\]
 
@@ -49,6 +53,12 @@ Talks
 
 Education
 ------
+
+* Ph.D, 2021 - <br>
+[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
+[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
+Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+
 * M.Tech (Research), 2018 - 2021 <br>
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
@@ -75,6 +85,10 @@ Teaching experience
 
 * January 2020 - April 2020: Teaching Assistant
   * Course: Pattern Recognition and Neural Networks
+  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+
+* September 2020 - January 2021: Teaching Assistant
+  * Course: Stochastic Models & Applications
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
 [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
