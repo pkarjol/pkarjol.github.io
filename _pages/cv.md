@@ -33,14 +33,14 @@ Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:t
 
 Publications \[Related to Thesis\]
 ------
-## Robust Learning under Label Noise
+### Robust Learning under Label Noise
 
 * Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[paper\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[presentation](\files\pakdd-role-of-loss.pdf)\]
 * Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[[paper](https://arxiv.org/abs/2106.15292)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)\]
 
 Other Publications
 ------
-## Analysis of Speech Signals
+### Analysis of Speech Signals
 
 * Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[paper](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\]
 * Comparison of Speech Tasks for Automatic Classification of Patients with Amyotrophic Lateral Sclerosis and Healthy Subjects - International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018 \[[paper](https://ieeexplore.ieee.org/document/8461836)\]
