@@ -23,6 +23,6 @@ Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `<first_name><second_
 
 News
 ---
-* 29/06/2021 - New preprint of my work [Adaptive Selection for Robust Learning under label Noise](https://arxiv.org/abs/2106.15292) is up on arXiv.
-* 13/05/2021 - Presented my work at PAKDD 2021.
-* 01/05/2021 - Joined as a Ph.D student under [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"} at the Department of Electrical Engineering, IISc.
+* 06/2021 - New preprint of our work [Adaptive Selection for Robust Learning under label Noise](https://arxiv.org/abs/2106.15292) is up on arXiv.
+* 05/2021 - Presented our work [Memorization in Deep Neural Networks: Does the Loss Function Matter?](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_11) at PAKDD 2021.
+* 05/2021 - Joined as a Ph.D student under [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"} at the Department of Electrical Engineering, IISc.
