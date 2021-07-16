@@ -65,6 +65,57 @@ redirect_from:
 
 # Interesting papers, articles, blogs, books...
 
+## Interesting Blogs on Machine Learning (and some maths)
+
+* [Distill.pub](https://distill.pub)
+* https://blog.christianperone.com/page/3/
+* https://t.co/qvqNbaIXxR?amp=1
+* Entropic Flow: https://meisong541.github.io/
+* https://onionesquereality.wordpress.com/index-all-posts/
+* Inference.vc
+* Off the convex path
+* CalculatedContent
+* A Butterfly Valley
+* https://locuslab.github.io/
+* I'm a bandit - Bubeck
+* https://lilianweng.github.io/lil-log/
+* Francis Bach's blog
+* https://vincentherrmann.github.io/blog/wasserstein/
+* fa.bianp.net
+* http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html
+* mloss.org - ML open source sorftware
+* Libres pensées d'un mathématicien ordinaire - http://djalil.chafai.net/blog/
+* https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation
+* https://wiseodd.github.io/techblog/
+* http://www.physicsmeetsml.org
+* https://tuananhle.co.uk/notes/
+* https://timvieira.github.io/blog/
+* https://ajolicoeur.wordpress.com/adversarial-score-matching-and-consistent-sampling/
+* Understanding NTK: Rajat's Blog
+* Vene.ro: https://vene.ro/blog/mirror-descent.html
+* https://speechbrain.github.io/
+* preetum.nakkiran.org/misc/gauss
+* https://nhigham.com/category/what-is/
+* http://www.pokutta.com/blog/
+
+* tricki.org/article/Create_an_epsilon_of_room
+* tricki.org/article/Existence_proofs
+* https://nuit-blanche.blogspot.com
+
+### Scientific computing:
+* netlib.org/misc/faq.html#2.1
+* netlib.org/bib/gams.html
+* solon.cma.univie.ac.at/glopt.html
+
+
+### Interesting blog on Compressed Sensing:
+* https://nuit-blanche.blogspot.com/search/label/grouptesting
+
+
+### Deep Learning & PyTorch
+* https://fleuret.org/dlc/
+
+
 ## Books (genre-wise)
 
 > To be updated soon.
