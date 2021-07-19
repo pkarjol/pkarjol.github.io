@@ -67,10 +67,10 @@ redirect_from:
 
 ## Interesting Blogs on Machine Learning (and some maths)
 
-* [Distill.pub](https://distill.pub)
-* https://blog.christianperone.com/page/3/
-* https://t.co/qvqNbaIXxR?amp=1
-* Entropic Flow: https://meisong541.github.io/
+- [Distill.pub](https://distill.pub)
+- https://blog.christianperone.com/page/3/
+- https://t.co/qvqNbaIXxR?amp=1
+- Entropic Flow: https://meisong541.github.io/
 * https://onionesquereality.wordpress.com/index-all-posts/
 * Inference.vc
 * Off the convex path
