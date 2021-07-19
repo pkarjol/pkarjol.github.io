@@ -65,57 +65,56 @@ redirect_from:
 
 # Interesting papers, articles, blogs, books...
 
-## Interesting Blogs on Machine Learning (and some maths)
+## Interesting Blogs on Machine Learning, Maths, and Computer Science
 
-** [Distill.pub](https://distill.pub)
-** https://blog.christianperone.com/page/3/
-** https://t.co/qvqNbaIXxR?amp=1
-** Entropic Flow: https://meisong541.github.io/
-** https://onionesquereality.wordpress.com/index-all-posts/
-* Inference.vc
-* Off the convex path
-* CalculatedContent
-* A Butterfly Valley
-* https://locuslab.github.io/
-* I'm a bandit - Bubeck
-* https://lilianweng.github.io/lil-log/
-* Francis Bach's blog
-* https://vincentherrmann.github.io/blog/wasserstein/
-* fa.bianp.net
-* http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html
-* mloss.org - ML open source sorftware
-* Libres pensées d'un mathématicien ordinaire - http://djalil.chafai.net/blog/
-* https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation
-* https://wiseodd.github.io/techblog/
-* http://www.physicsmeetsml.org
-* https://tuananhle.co.uk/notes/
-* https://timvieira.github.io/blog/
-* https://ajolicoeur.wordpress.com/adversarial-score-matching-and-consistent-sampling/
-* Understanding NTK: Rajat's Blog
-* Vene.ro: https://vene.ro/blog/mirror-descent.html
-* https://speechbrain.github.io/
-* preetum.nakkiran.org/misc/gauss
-* https://nhigham.com/category/what-is/
-* http://www.pokutta.com/blog/
+1. [Distill.pub](https://distill.pub)
+2. https://blog.christianperone.com/page/3/
+3. https://t.co/qvqNbaIXxR?amp=1
+4. Entropic Flow: https://meisong541.github.io/
+5. https://onionesquereality.wordpress.com/index-all-posts/
+6. Inference.vc
+7. Off the convex path
+8. CalculatedContent
+9. A Butterfly Valley
+10. https://locuslab.github.io/
+11. I'm a bandit - Bubeck
+12. https://lilianweng.github.io/lil-log/
+13. Francis Bach's blog
+14. https://vincentherrmann.github.io/blog/wasserstein/
+15. fa.bianp.net
+16. http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html
+17. mloss.org - ML open source sorftware
+18. Libres pensées d'un mathématicien ordinaire - http://djalil.chafai.net/blog/
+19. https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation
+20. https://wiseodd.github.io/techblog/
+21. http://www.physicsmeetsml.org
+22. https://tuananhle.co.uk/notes/
+23. https://timvieira.github.io/blog/
+24. https://ajolicoeur.wordpress.com/adversarial-score-matching-and-consistent-sampling/
+25. Understanding NTK: Rajat's Blog
+26. Vene.ro: https://vene.ro/blog/mirror-descent.html
+27. https://speechbrain.github.io/
+28. preetum.nakkiran.org/misc/gauss
+29. https://nhigham.com/category/what-is/
+30. http://www.pokutta.com/blog/
+31. https://nuit-blanche.blogspot.com
 
-* tricki.org/article/Create_an_epsilon_of_room
-* tricki.org/article/Existence_proofs
-* https://nuit-blanche.blogspot.com
+1. tricki.org/article/Create_an_epsilon_of_room
+2. tricki.org/article/Existence_proofs
 
 ### Scientific computing:
-* netlib.org/misc/faq.html#2.1
-* netlib.org/bib/gams.html
-* solon.cma.univie.ac.at/glopt.html
-
+1. netlib.org/misc/faq.html#2.1
+2. netlib.org/bib/gams.html
+3. solon.cma.univie.ac.at/glopt.html
 
 ### Interesting blog on Compressed Sensing:
-* https://nuit-blanche.blogspot.com/search/label/grouptesting
+1. https://nuit-blanche.blogspot.com/search/label/grouptesting
 
 
 ### Deep Learning & PyTorch
-* https://fleuret.org/dlc/
+1. https://fleuret.org/dlc/
 
-
+<!---
 ## Books (genre-wise)
 
 > To be updated soon.
@@ -141,7 +140,7 @@ redirect_from:
 
 > To be updated soon.
 
-
+-->
 
 <!---
 List of Books I own (/used to)
