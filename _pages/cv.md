@@ -35,19 +35,19 @@ Publications \[Related to Thesis\]
 ------
 ### Robust Learning under Label Noise
 
-* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[paper](https://arxiv.org/abs/2107.09957)\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[presentation](\files\pakdd-role-of-loss.pdf)\]
-* Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[[paper](https://arxiv.org/abs/2106.15292)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)\]
+* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
+* Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)\]
 
 Other Publications
 ------
 ### Analysis of Speech Signals
 
-* Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[paper](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\]
-* Comparison of Speech Tasks for Automatic Classification of Patients with Amyotrophic Lateral Sclerosis and Healthy Subjects - International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018 \[[paper](https://ieeexplore.ieee.org/document/8461836)\]
+* Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[**paper**](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\]
+* Comparison of Speech Tasks for Automatic Classification of Patients with Amyotrophic Lateral Sclerosis and Healthy Subjects - International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018 \[[**paper**](https://ieeexplore.ieee.org/document/8461836)\]
 
 Talks
 ------
-* Adaptive Sample Selection for Robust Learning under Label Noise \[[video](https://youtu.be/N4dpONCMyeg)\] \[[presentation](\files\deep-patel-eecs-symp-2021.pdf)\]<br>
+* Adaptive Sample Selection for Robust Learning under Label Noise \[[**video**](https://youtu.be/N4dpONCMyeg)\] \[[**presentation**](\files\deep-patel-eecs-symp-2021.pdf)\]<br>
  [EECS Symposium 2021](https://eecs.iisc.ac.in/EECS2021/){:target="_blank"},
  [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore <br>
 
@@ -79,16 +79,12 @@ Work experience
 Teaching experience
 ------
 
-* September 2020 - January 2021: Teaching Assistant
+* Fall '19, Fall '20, Fall '21: Teaching Assistant
   * Course: Stochastic Models & Applications
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
-* January 2020 - April 2020: Teaching Assistant
+* Spring '20: Teaching Assistant
   * Course: Pattern Recognition and Neural Networks
-  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
-
-* September 2020 - January 2021: Teaching Assistant
-  * Course: Stochastic Models & Applications
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
 [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
