@@ -29,13 +29,13 @@ Theses
 ------
 * **_A Study of Robust Learning under Label Noise with Neural Networks_**, Master's Thesis<br>
 Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
-\[[**Thesis**](\files\deep-patel-iisc-masters-thesis_compressed.pdf)\] (_Under Review_) **|** \[[**Colloquium**](\files\deep-masters-colloquium_compressed.pdf)\]
+\[[**Thesis**](\files\deep-patel-iisc-masters-thesis.pdf)\] **|** \[[**Slides**](\files\deep-masters-defense.pdf)\] **|** \[[**Codes**](https://github.com/dbp1994/masters_thesis_codes)\]
 
 Publications \[Related to Thesis\]
 ------
 ### Robust Learning under Label Noise
 
-* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_11)\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[presentation](\files\pakdd-role-of-loss.pdf)\]
+* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[paper](https://arxiv.org/abs/2107.09957)\] \[[video](https://youtu.be/6hkEC1IEJdo)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[presentation](\files\pakdd-role-of-loss.pdf)\]
 * Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[[paper](https://arxiv.org/abs/2106.15292)\] \[[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)\]
 
 Other Publications
