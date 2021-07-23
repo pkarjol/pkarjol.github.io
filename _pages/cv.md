@@ -18,8 +18,7 @@ I am interested in understanding machine learning problems through the lens of g
 Current research interests - robust deep learning and feedback in convolutional neural networks
 Other interests - information theoretic and decision-making aspects of machine learning
 
-<! ---theoretical machine learning and my current research interests are in: 1.) _geometric deep learning_ for robust deep learning, 2.) feedback in convolutional neural networks, and 3.) _robust supervised learning_ in the presence of _label noise_. I am also interested in exploring the optimization theoretic, information theoretic and decision-making aspects of machine learning.
-
+<!-- theoretical machine learning and my current research interests are in: 1.) _geometric deep learning_ for robust deep learning, 2.) feedback in convolutional neural networks, and 3.) _robust supervised learning_ in the presence of _label noise_. I am also interested in exploring the optimization theoretic, information theoretic and decision-making aspects of machine learning. -->
 -->
 
 <!--* Research Interests - Machine Learning
