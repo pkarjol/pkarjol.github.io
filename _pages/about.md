@@ -12,7 +12,7 @@ I am a first year Ph.D student at [Department of Electrical Engineering](http://
 
 Currently, I am trying to understand and explain various aspects of _robust deep learning_ through a geometric approach. I am also interested in understanding feedback mechanisms for convolutional neural networks.
 
-Previously, I did my M.Tech (Research) with [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"} in the same department and, as a part of my master's thesis, I worked on _robust supervised learning in the presence of label noise_. Before that, I spent a year as a Project Assistant at [SPIRE Lab, IISc](https://spire.ee.iisc.ac.in/spire/index.php){:target="_blank"} where I was advised by [Prof. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/new/people/faculty/prasantg/){:target="_blank"} on speech-based automated disease onset detection and severity prediction of Amyotrophic Lateral Sclerosis (ALS).
+Previously, I did my M.Tech (Research) with [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"} in the same department and, as a part of my master's thesis, I worked on _robust supervised learning in the presence of label noise_. Before that, I spent a year as a Project Assistant at [SPIRE Lab, IISc](https://spire.ee.iisc.ac.in/spire/index.php){:target="_blank"} where I was advised by [Prof. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/new/people/faculty/prasantg/){:target="_blank"} on speech-based automated disease onset detection and severity prediction of Amyotrophic Lateral Sclerosis (ALS) and Parkinson's Disease.
 
 Here is my [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--inverse}
 
