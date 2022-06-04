@@ -13,8 +13,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #  url: /year-archive/
       
   #- title: "Publications"
   #  url: /publications/
@@ -22,8 +22,9 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Interesting Stuff"
-    url: /stuff/
+  # - title: "Interesting Stuff"
+  #  url: /stuff/
+  
   #- title: "Misc"
   #  url: /misc/
   # - title: "Guide"
