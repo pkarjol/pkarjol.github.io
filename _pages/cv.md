@@ -40,8 +40,8 @@ Publications \[Related to Thesis\]
 ------
 ### Robust Learning under Label Noise
 
-* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
-* Adaptive Sample Selection for Robust Learning under Label Noise - Under Review \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)\]
+* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\] \[[**video**](https://www.youtube.com/watch?v=6hkEC1IEJdo)\]
+* Adaptive Sample Selection for Robust Learning under Label Noise - arXiv Preprint (2021) \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)\] \[[**video**](https://www.youtube.com/watch?v=N4dpONCMyeg)\]
 
 Other Publications
 ------
