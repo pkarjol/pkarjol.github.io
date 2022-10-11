@@ -23,6 +23,7 @@ Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `<first_name><second_
 
 News
 ---
+* 10/2022 - Our work [Adaptive Selection for Robust Learning under label Noise](https://arxiv.org/abs/2106.15292) has been accepted for [WACV 2023](https://wacv2023.thecvf.com/home). Updated codes and arXiv preprint to be put up soon! Meanwhile, please drop me an email or message me on Twitter for any questions or issues regarding the work.
 * 06/2021 - I successfully defended my M.Tech (Research) thesis on 23rd July 2021! The thesis and codes are available [here](https://dbp1994.github.io/files/deep-patel-iisc-masters-thesis.pdf) and [here](https://github.com/dbp1994/masters_thesis_codes).
 * 06/2021 - New preprint of our work [Adaptive Selection for Robust Learning under label Noise](https://arxiv.org/abs/2106.15292) is up on arXiv.
 * 05/2021 - Presented our work [Memorization in Deep Neural Networks: Does the Loss Function Matter?](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_11) at PAKDD 2021.
