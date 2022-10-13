@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D student at [Department of Electrical Engineering](https://ee.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}.
+I am a second year Ph.D student at [Department of Electrical Engineering](https://ee.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}.
 
 Currently, I am trying to understand and explain various aspects of _robust deep learning_ through a geometric approach. I am also interested in understanding feedback mechanisms for convolutional neural networks.
 
