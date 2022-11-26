@@ -50,8 +50,10 @@ Other Publications
 * Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[**paper**](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\]
 * Comparison of Speech Tasks for Automatic Classification of Patients with Amyotrophic Lateral Sclerosis and Healthy Subjects - International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018 \[[**paper**](https://ieeexplore.ieee.org/document/8461836)\]
 
-Talks
+Presentations and Talks
 ------
+* Adaptive Sample Selection for Robust Learning under Label Noise [Online Asian Machine Learning School](https://www.acml-conf.org/2022/oamls.html){:target="_blank"},
+ [Asian Conference on Machine Learning (2022)](https://www.acml-conf.org/2022/index.html){:target="_blank"}, Hyderabad <br>
 * Adaptive Sample Selection for Robust Learning under Label Noise \[[**video**](https://youtu.be/N4dpONCMyeg)\] \[[**presentation**](\files\deep-patel-eecs-symp-2021.pdf)\]<br>
  [EECS Symposium 2021](https://eecs.iisc.ac.in/EECS2021/){:target="_blank"},
  [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore <br>
