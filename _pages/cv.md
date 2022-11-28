@@ -52,7 +52,7 @@ Other Publications
 
 Presentations and Talks
 ------
-* Adaptive Sample Selection for Robust Learning under Label Noise  \[**poster** (will be uploaded)\] <br>
+* Adaptive Sample Selection for Robust Learning under Label Noise  \[[**poster**](\files\bare-oamls-2023-poster.pdf)\] <br>
 [Online Asian Machine Learning School](https://www.acml-conf.org/2022/oamls.html){:target="_blank"},
  [ACML 2022](https://www.acml-conf.org/2022/index.html){:target="_blank"}, Hyderabad <br>
 * Adaptive Sample Selection for Robust Learning under Label Noise \[[**video**](https://youtu.be/N4dpONCMyeg)\] \[[**presentation**](\files\deep-patel-eecs-symp-2021.pdf)\]<br>
