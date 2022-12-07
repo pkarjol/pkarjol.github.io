@@ -16,12 +16,7 @@ Research Interests
 I am interested in understanding machine learning problems through the lens of geometry, statistics, and optimization.
 
 Current research interests - weakly supervised learning and theory of deep learning <br>
-Other interests - information theoretic and decision-making aspects of machine learning
-
-<!-- theoretical machine learning and my current research interests are in: 1.) _geometric deep learning_ for robust deep learning, 2.) feedback in convolutional neural networks, and 3.) _robust supervised learning_ in the presence of _label noise_. I am also interested in exploring the optimization theoretic, information theoretic and decision-making aspects of machine learning. -->
-
-<!--* Research Interests - Machine Learning
-* Other Learning Interests - ... -->
+Other interests - information-constrained statistical inference and causal inference
 
 <!-- [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
 ------ -->
@@ -40,8 +35,8 @@ Publications \[Related to Thesis\]
 ------
 ### Robust Learning under Label Noise
 
-* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
-* Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)\] \[[**video (old)**](https://www.youtube.com/watch?v=N4dpONCMyeg)\]
+* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/memorization-pakdd-2021)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
+* Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video (old)**](https://www.youtube.com/watch?v=N4dpONCMyeg)\] \[[**video (new)**](https://)\]
 
 Other Publications
 ------
@@ -76,7 +71,7 @@ Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:t
 School of Technology, <br>
 PDPU, Gujarat<br>
 
-Work experience
+Other Research Experiences
 ------
 
 * September 2017 - July 2018: Project Assistant
