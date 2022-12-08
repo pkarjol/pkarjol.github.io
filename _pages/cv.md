@@ -36,7 +36,7 @@ Publications \[Related to Thesis\]
 ### Robust Learning under Label Noise
 
 * Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/memorization-pakdd-2021)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
-* Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video (old)**](https://www.youtube.com/watch?v=N4dpONCMyeg)\] \[[**video (new)**](https://)\] \[[**poster**](\files\bare-wacv-2023-poster.pdf)\]
+* Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video**](https://)\] \[[**poster**](\files\bare-wacv-2023-poster.pdf)\]
 
 Other Publications
 ------
