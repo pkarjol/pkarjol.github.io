@@ -36,7 +36,7 @@ Publications \[Related to Thesis\]
 ### Robust Learning under Label Noise
 
 * Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/memorization-pakdd-2021)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
-* Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video (old)**](https://www.youtube.com/watch?v=N4dpONCMyeg)\] \[[**video (new)**](https://)\]
+* Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video (old)**](https://www.youtube.com/watch?v=N4dpONCMyeg)\] \[[**video (new)**](https://)\] \[[**presentation**](\files\bare-wacv-2023-poster.pdf)\]
 
 Other Publications
 ------
@@ -47,7 +47,7 @@ Other Publications
 
 Presentations and Talks
 ------
-* Adaptive Sample Selection for Robust Learning under Label Noise  \[[**poster**](\files\bare-oamls-2023-poster.pdf)\] <br>
+* Adaptive Sample Selection for Robust Learning under Label Noise  \[[**poster**](\files\bare-wacv-2023-poster.pdf)\] <br>
 [Online Asian Machine Learning School](https://www.acml-conf.org/2022/oamls.html){:target="_blank"},
  [ACML 2022](https://www.acml-conf.org/2022/index.html){:target="_blank"}, Hyderabad <br>
 * Adaptive Sample Selection for Robust Learning under Label Noise \[[**video**](https://youtu.be/N4dpONCMyeg)\] \[[**presentation**](\files\deep-patel-eecs-symp-2021.pdf)\]<br>
