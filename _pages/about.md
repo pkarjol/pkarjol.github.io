@@ -23,6 +23,7 @@ Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `<first_name><second_
 
 News
 ---
+* 12/2022 - I got selected for '[Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home)'. Excited for this meet!
 * 11/2022 - I got selected for the Online Asian Machine Learning School at ACML 2022. I will be presenting our [WACV'23 work](https://arxiv.org/abs/2106.15292) there. See you there!
 * 10/2022 - Our work [Adaptive Selection for Robust Learning under label Noise](https://arxiv.org/abs/2106.15292) has been accepted for [WACV 2023](https://wacv2023.thecvf.com/home). Codes and arXiv preprint have been updated! If you have any questions about our work, please reach out via email or Twitter!
 * 06/2021 - I successfully defended my M.Tech (Research) thesis on 23rd July 2021! The thesis and codes are available [here](https://dbp1994.github.io/files/deep-patel-iisc-masters-thesis.pdf) and [here](https://github.com/dbp1994/masters_thesis_codes).
