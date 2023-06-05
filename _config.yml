@@ -9,13 +9,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deep Patel"
+title                    : "Pavan Karjol"
 title_separator          : "-"
-name                     : &name "Deep Patel"
+name                     : &name "Pavan Karjol"
 description              : &description "Ph.D \n Indian Institute of Science"
-url                      : https://dbp1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pkarjol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dbp1994/dbp1994.github.io"
+repository               : "pkarjol/pkarjol.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) (Raghav - true has some bug)
 words_per_minute         : 160
@@ -23,7 +23,7 @@ read_more                : "enabled" # if enabled, adds "Read more" links to exc
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "deeppatel"
+    shortname            : "pavan"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deep Patel"
-  avatar           : "deep-patel-dp.jpg"
-  bio              : "2<sup>nd</sup> year Ph.D, <br> Department of Electrical Engineering" # 3<sup>rd</sup>
-  location         : "C-235, Learning Systems <br /> and Multimedia Lab"
+  name             : "Pavan Karjol"
+  avatar           : 
+  bio              : "2<sup>nd</sup> year Ph.D, <br> Department of Electrical Communication Engineering" # 3<sup>rd</sup>
+  location         : "Signal Processing Building, ECE"
   employer         : "Indian Institute of Science, Bangalore"
-  googlescholar    : "https://scholar.google.com/citations?user=VDmcq5wAAAAJ&hl=en"
-  email            : "dbp.patel.1994@gmail.com"
+  googlescholar    : 
+  email            : "pavankarjol@iisc.ac.in"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         : # "raghavsomani95"
   foursquare       :
-  github           : "dbp1994"
+  github           : "pkarjol"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "deep-patel-7032b3a1"
+  linkedin         : 
   orcid            : #"https://orcid.org/0000-0002-0048-3490"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dbp_patel_1994"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
