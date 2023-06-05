@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at [Department of Electrical Engineering](https://ee.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. PS Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}. My research is supported by the [Prime Minister's Research Fellowship](https://www.pmrf.in/).
+I am a second year Ph.D student at [Department of Electrical Communication Engineering](https://ece.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. Prathosh A P](https://sites.google.com/view/prathosh/home){:target="_blank"}. My research is supported by the [Prime Minister's Research Fellowship](https://www.pmrf.in/).
 
 My interests are in weakly supervised learning and deep learning theory. Currently, I am working on the problem of learning under _label noise_ and _adversarial noise_ with _deep neural nets_. I am also exploring the robustness properties of mammalian vision-inspired feedback mechanisms for deep neural networks.
 
