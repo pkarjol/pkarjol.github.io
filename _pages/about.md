@@ -12,7 +12,7 @@ I am a second year Ph.D student at [Department of Electrical Communication Engin
 
 My interests are in equivariant and invariant function approximation, automatic symmetry discovery and deep learning theory.
 
-Previously, I did my M.Tech (Research) with [Prof. Prasanta Kumar Ghosh](https://ee.iisc.ac.in/prasanta-kumar-ghosh/){:target="_blank"}.
+Previously, I did my M.Tech (Research) with [Prof. Prasanta Kumar Ghosh](https://ee.iisc.ac.in/prasanta-kumar-ghosh/)
 
 Contact me at `pavankarjol[dot]1994[at]iisc[dot]ac[dot]in`.
 
