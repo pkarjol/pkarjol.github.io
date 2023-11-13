@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at [Department of Electrical Communication Engineering](https://ece.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. Prathosh A P](https://sites.google.com/view/prathosh/home){:target="_blank"}. My research is supported by the [Prime Minister's Research Fellowship](https://www.pmrf.in/).
+I am a second year Ph.D student at [Department of Electrical Communication Engineering](https://ece.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/) working with [Prof. Prathosh A P](https://sites.google.com/view/prathosh/home). My research is supported by the [Prime Minister's Research Fellowship](https://www.pmrf.in/).
 
 My interests are in equivariant and invariant function approximation, automatic symmetry discovery and deep learning theory.
 
