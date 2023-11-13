@@ -13,114 +13,20 @@ The detailed PDF version of my CV can be found here - [__Curriculum Vitae__](\fi
 
 Research Interests
 ------
-I am interested in understanding machine learning problems through the lens of geometry, statistics, and optimization.
 
-Current research interests - weakly supervised learning and theory of deep learning <br>
-Other interests - information-constrained statistical inference and causal inference
-
-<!-- [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
------- -->
-
-<!--  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+To be updated.
 
 Theses
 ------
-* **_A Study of Robust Learning under Label Noise with Neural Networks_**, Master's Thesis<br>
-Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}<br>
-\[[**Thesis**](\files\deep-patel-iisc-masters-thesis.pdf)\] **|** \[[**Slides**](\files\deep-masters-defense.pdf)\] **|** \[[**Codes**](https://github.com/dbp1994/masters_thesis_codes)\]
+
+To be updated.  
 
 Publications \[Related to Thesis\]
 ------
-### Robust Learning under Label Noise
 
-* Memorization in Deep Neural Networks: Does the Loss Function matter? - PAKDD 2021 \[[**paper**](https://arxiv.org/abs/2107.09957)\] \[[**video**](https://youtu.be/6hkEC1IEJdo)\] \[[**code**](https://github.com/dbp1994/memorization-pakdd-2021)\] \[[**presentation**](\files\pakdd-role-of-loss.pdf)\]
-* Adaptive Sample Selection for Robust Learning under Label Noise - WACV 2023 \[[**paper**](https://arxiv.org/abs/2106.15292)\] \[[**code**](https://github.com/dbp1994/bare-wacv-2023)\] \[[**video**](https://youtu.be/tLT5PlQYIA0)\] \[[**poster**](\files\bare-wacv-2023-poster.pdf)\]
-
-Other Publications
-------
-### Analysis of Speech Signals
-
-* Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis - Interspeech, 2019 \[[**paper**](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1285.html)\]
-* Comparison of Speech Tasks for Automatic Classification of Patients with Amyotrophic Lateral Sclerosis and Healthy Subjects - International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018 \[[**paper**](https://ieeexplore.ieee.org/document/8461836)\]
-
-Presentations and Talks
-------
-* Adaptive Sample Selection for Robust Learning under Label Noise  \[[**poster**](\files\bare-wacv-2023-poster.pdf)\] <br>
-[Online Asian Machine Learning School](https://www.acml-conf.org/2022/oamls.html){:target="_blank"},
- [ACML 2022](https://www.acml-conf.org/2022/index.html){:target="_blank"}, Hyderabad <br>
-* Adaptive Sample Selection for Robust Learning under Label Noise \[[**video**](https://youtu.be/N4dpONCMyeg)\] \[[**presentation**](\files\deep-patel-eecs-symp-2021.pdf)\]<br>
- [EECS Symposium 2021](https://eecs.iisc.ac.in/EECS2021/){:target="_blank"},
- [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore <br>
 
 Education
 ------
 
-* Ph.D, 2021 - <br>
-[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
-[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
-Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+To be updated.
 
-* M.Tech (Research), 2018 - 2021 <br>
-[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
-[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
-Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
-
-* B.Tech (Electrical Engineering), 2012 - 2016 <br>
-School of Technology, <br>
-PDPU, Gujarat<br>
-
-Other Research Experiences
-------
-
-* September 2017 - July 2018: Project Assistant
-  * [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}
-  * Mentor: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
-    * Details in CV
-
-Teaching experience
-------
-
-* Fall '19, Fall '20, Fall '21: Teaching Assistant
-  * Course: Stochastic Models & Applications
-  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
-
-* Spring '20: Teaching Assistant
-  * Course: Pattern Recognition and Neural Networks
-  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
-
-* Fall '22: Teaching Assistant
-  * Course: Random Processes
-  * Instructor: [Prof. Aditya Gopalan](https://ece.iisc.ac.in/~aditya/){:target="_blank"}
-
-[Projects](https://dbp1994.github.io/projects/){:target="_blank"}
-------
-
-  <ul>{% for post in site.projects reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-<!-- Professional services
-------
-* Reviewer for [NeurIPS '20](https://neurips.cc/Conferences/2020)
--- >
-
-
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
- -->
