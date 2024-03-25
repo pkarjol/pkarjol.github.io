@@ -14,7 +14,7 @@ My interests are in equivariant and invariant function approximation, automatic 
 
 Previously, I did my M.Tech (Research) with [Prof. Prasanta Kumar Ghosh](https://ee.iisc.ac.in/prasanta-kumar-ghosh/)
 
-Contact me at `pavankarjol[dot]1994[at]iisc[dot]ac[dot]in`.
+Contact me at `pavankarjol[at]iisc[dot]ac[dot]in`.
 
 
 ----------------------------------------------------------------------------------------------------
